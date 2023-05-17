@@ -1,0 +1,36 @@
+{
+	"nodes":[
+		{"type":"text","text":"### ~~Топ пивоварни~~\n- Stamm\n- AF Brew\n- Alaska\n- Panzer\n- 4BREWERS\n- Saldens\n- Jaws\n- Plan B","id":"95890d7581ff3259","x":-878,"y":-400,"width":250,"height":50},
+		{"type":"text","text":"## Итоги 2023","id":"b09440081baa7885","x":-310,"y":-226,"width":250,"height":60,"color":"3"},
+		{"type":"text","text":"~~### Май~~\n~~- Сплав~~","id":"79c863c2bfea3ce3","x":-453,"y":-74,"width":250,"height":74},
+		{"type":"text","text":"# potyk-io","id":"f021847bc3b4d97b","x":-185,"y":-540,"width":250,"height":60},
+		{"type":"text","text":"## Пиво","id":"467467a718d28609","x":-560,"y":-460,"width":250,"height":60,"color":"3"},
+		{"type":"text","text":"## Tools","id":"b46fd571fcdb0663","x":25,"y":-326,"width":250,"height":60,"color":"3"},
+		{"type":"text","text":"### Фичи диаграмм\n- Obsidian: Маркдаун в карточках, локальные файлы","id":"1b1f12d74a81ffbb","x":-71,"y":-106,"width":250,"height":126},
+		{"type":"text","text":"~~- Obsidian: мобилка~~","id":"bba661e50de10de7","x":240,"y":-150,"width":250,"height":50},
+		{"type":"text","text":"- Сервис подбора пива  \n- Автоматизация того че выбрать в беру выходной","id":"d605b85f2eb4639a","x":-970,"y":-567,"width":250,"height":137},
+		{"type":"text","text":"Аналогично сервис про рестики","id":"70e46af4cad8a2dc","x":-739,"y":-683,"width":250,"height":60},
+		{"type":"text","text":"## Перенести все из v2\n- В v3\n- В potyk-base","id":"46f6e79e86d6e7ec","x":212,"y":-607,"width":250,"height":147,"color":"3"},
+		{"type":"text","text":"## Гайд по s3","id":"da687b7b170d84eb","x":-274,"y":-758,"width":250,"height":60,"color":"2"},
+		{"type":"text","text":"## Fun","id":"e36e52fbeba289c7","x":60,"y":-755,"width":250,"height":60,"color":"3"},
+		{"type":"text","text":"~~### Еда~~","id":"0648fe2b065c0c1e","x":40,"y":-915,"width":250,"height":60},
+		{"type":"text","text":"- [x] Дегустации / фесты / экскурсии","id":"f4a902d9d55cca5f","x":40,"y":-1020,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"c6fc03f3ae9e77a0","fromNode":"f021847bc3b4d97b","fromSide":"left","toNode":"467467a718d28609","toSide":"right"},
+		{"id":"9ecee74fcb087011","fromNode":"467467a718d28609","fromSide":"left","toNode":"95890d7581ff3259","toSide":"right"},
+		{"id":"6884bb603336f60d","fromNode":"f021847bc3b4d97b","fromSide":"bottom","toNode":"b09440081baa7885","toSide":"top"},
+		{"id":"a6e3091299fe678f","fromNode":"b09440081baa7885","fromSide":"bottom","toNode":"79c863c2bfea3ce3","toSide":"top"},
+		{"id":"263957a105188acf","fromNode":"f021847bc3b4d97b","fromSide":"bottom","toNode":"b46fd571fcdb0663","toSide":"top"},
+		{"id":"d2940efe83b6c6fd","fromNode":"b46fd571fcdb0663","fromSide":"bottom","toNode":"1b1f12d74a81ffbb","toSide":"top"},
+		{"id":"24d6746e0615cd2a","fromNode":"b46fd571fcdb0663","fromSide":"bottom","toNode":"bba661e50de10de7","toSide":"top"},
+		{"id":"86c7825b8dd689df","fromNode":"467467a718d28609","fromSide":"left","toNode":"d605b85f2eb4639a","toSide":"right"},
+		{"id":"b8eba20d1c8507f5","fromNode":"f021847bc3b4d97b","fromSide":"left","toNode":"70e46af4cad8a2dc","toSide":"right"},
+		{"id":"fea841f96f40c9b0","fromNode":"70e46af4cad8a2dc","fromSide":"bottom","toNode":"d605b85f2eb4639a","toSide":"top","color":"3"},
+		{"id":"84306c33aa1cfbda","fromNode":"f021847bc3b4d97b","fromSide":"right","toNode":"46f6e79e86d6e7ec","toSide":"left"},
+		{"id":"5923bb0daeb830c4","fromNode":"f021847bc3b4d97b","fromSide":"top","toNode":"da687b7b170d84eb","toSide":"bottom"},
+		{"id":"53934ac15c49a08b","fromNode":"f021847bc3b4d97b","fromSide":"top","toNode":"e36e52fbeba289c7","toSide":"bottom"},
+		{"id":"63c885e003636801","fromNode":"e36e52fbeba289c7","fromSide":"top","toNode":"0648fe2b065c0c1e","toSide":"bottom"},
+		{"id":"e34084fb9f156cd4","fromNode":"0648fe2b065c0c1e","fromSide":"top","toNode":"f4a902d9d55cca5f","toSide":"bottom"}
+	]
+}

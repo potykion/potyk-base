@@ -1,0 +1,14 @@
+{
+  "spellcheck": true,
+  "spellcheckLanguages": [
+    "en-US",
+    "ru"
+  ],
+  "readableLineLength": false,
+  "promptDelete": false,
+  "showLineNumber": true,
+  "useMarkdownLinks": true,
+  "showUnsupportedFiles": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "inbox"
+}
