@@ -4,21 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "93b34258e7dac863",
+        "id": "9866336bc2cb5e27",
         "type": "tabs",
         "children": [
           {
-            "id": "e08a3e0d0d75e1bc",
+            "id": "925a745343af853e",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "base/Отношач ебучий.canvas",
-                "viewState": {
-                  "x": 707.5,
-                  "y": 35,
-                  "zoom": -1.1484469014365164
-                }
+                "file": "goals/2023-05-18.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d653489ee49121b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_templates/goals.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "base/Отношач ебучий.canvas",
+                "file": "goals/2023-05-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "base/Отношач ебучий.canvas",
+                "file": "goals/2023-05-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "base/Отношач ебучий.canvas"
+                "file": "goals/2023-05-18.md"
               }
             }
           },
@@ -141,7 +150,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -158,8 +167,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e08a3e0d0d75e1bc",
+  "active": "925a745343af853e",
   "lastOpenFiles": [
+    "_templates/goals.md",
+    "goals/2023-05-18.md",
+    "base/invest-modeling.md",
+    "base/invest-results.md",
+    "base/Отношач ебучий.canvas",
     "base/obs-mobile.md",
     "inbox/obs-mobile.md",
     "goals/skvrd/skvtd-auth.md",
@@ -170,7 +184,6 @@
     "goals/skvrd/cooking-base.md",
     "goals/skvrd",
     "Отношач ебучий.canvas",
-    "base/Отношач ебучий.canvas",
     "Думаем о великом.canvas",
     "base/Pasted image 20230518125706.png",
     "base/Что нужно девушкам.md",
@@ -189,10 +202,6 @@
     "base/how-to-travel.md",
     "base/games.md",
     "base/ekat-ymaps.md",
-    "base/ekat.md",
-    "base/base64.md",
-    "base/AI-coding.md",
-    "base/100-mest-ekat.md",
     "Pasted image 20230518125706.png",
     "README.md~",
     "goals/Думаем о великом.canvas",
