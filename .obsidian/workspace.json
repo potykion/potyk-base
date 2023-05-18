@@ -4,18 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4f11324074b450d0",
+        "id": "93b34258e7dac863",
         "type": "tabs",
         "children": [
           {
-            "id": "fb01988063d1b0d3",
+            "id": "e08a3e0d0d75e1bc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "base/what-to-do.md",
-                "mode": "source",
-                "source": false
+                "file": "base/Отношач ебучий.canvas",
+                "viewState": {
+                  "x": 707.5,
+                  "y": 35,
+                  "zoom": -1.1484469014365164
+                }
               }
             }
           }
@@ -85,6 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "base/Отношач ебучий.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "base/Отношач ебучий.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +127,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "base/Отношач ебучий.canvas"
+              }
             }
           },
           {
@@ -151,43 +158,47 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a389d9c4ea450095",
+  "active": "e08a3e0d0d75e1bc",
   "lastOpenFiles": [
-    "README.md~",
-    "README.md",
-    "base/what-to-do.md",
-    "goals/2023-05-13.md",
-    "goals/2023-05-12.md",
-    "goals/2023-05-17.md",
-    "inbox/ass.md",
-    "Obsidian.md",
+    "base/obs-mobile.md",
+    "inbox/obs-mobile.md",
+    "goals/skvrd/skvtd-auth.md",
+    "goals/skvrd/skvrd-list-update.md",
+    "goals/skvrd/skvrd-image-from-clipboard.md",
+    "goals/skvrd/Skvrd-edit.md",
+    "goals/skvrd/obs-mobile.md",
+    "goals/skvrd/cooking-base.md",
+    "goals/skvrd",
+    "Отношач ебучий.canvas",
+    "base/Отношач ебучий.canvas",
     "Думаем о великом.canvas",
+    "base/Pasted image 20230518125706.png",
+    "base/Что нужно девушкам.md",
+    "base/Средства от похмелья.md",
+    "base/Лягушка, слон и брокколи.md",
+    "base/Добрый реаниматолог.md",
+    "base/Биохакинк без фанатизма.md",
+    "base/vodka.md",
+    "base/vine2.jpg",
+    "base/vine1.jpg",
+    "base/vine.md",
+    "base/spb.md",
+    "base/py-tools.md",
+    "base/Obsidian.md",
+    "base/idea-plugins.md",
+    "base/how-to-travel.md",
+    "base/games.md",
+    "base/ekat-ymaps.md",
+    "base/ekat.md",
+    "base/base64.md",
+    "base/AI-coding.md",
+    "base/100-mest-ekat.md",
+    "Pasted image 20230518125706.png",
+    "README.md~",
     "goals/Думаем о великом.canvas",
     "inbox",
-    "base/Отношач ебучий.canvas",
-    "base/Что нужно девушкам.md",
-    "Отношач ебучий.canvas",
-    "goals/2023-05-16.md",
     "goals/potyk-io.canvas",
     "goals/skvrd.canvas",
-    "base/py-tools.md",
-    "base/idea-plugins.md",
-    "base/Obsidian.md",
-    "_templates/goals.md",
-    "goals/2023-05-14.md",
-    "goals/2023-05-15.md",
-    "base/Добрый реаниматолог.md",
-    "base/vine.md",
-    "base/vine1.jpg",
-    "base/vine2.jpg",
-    "base/vodka.md",
-    "base/base64.md",
-    "base/Лягушка, слон и брокколи.md",
-    "base/Биохакинк без фанатизма.md",
-    "base/spb.md",
-    "base/Средства от похмелья.md",
-    "base/100-mest-ekat.md",
-    "goals/README.md",
     "notes/Untitled.canvas",
     "travel",
     "_templates",

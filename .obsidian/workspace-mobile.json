@@ -20,27 +20,108 @@
             }
           },
           {
-            "id": "17005757825b338c",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Отношач ебучий.canvas",
-                "viewState": {
-                  "x": 621.4601680631093,
-                  "y": -187.56524212180113,
-                  "zoom": -1.3706912229549912
-                }
-              }
-            }
-          },
-          {
             "id": "9b802aa3e970367b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Что нужно девушкам.md",
+                "file": "goals/2023-05-17.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fc8a411899879329",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "inbox/skvtd-auth.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "de88400f6841eb18",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "goals/2023-05-18.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "37eab008b67ed90d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "inbox/less-time-killing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "925c4d2f95e3a873",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "inbox/Skvrd-edit.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "076e26d7a698d49f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "inbox/skvrd-image-from-clipboard.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dd7c6d8d0fad6a60",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "inbox/cooking-base.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9f92ddb3c6ccd96f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "inbox/skvrd-list-update.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "edaea5c8e04b5a6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -59,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -125,7 +206,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "notes/Что нужно девушкам.md",
+            "file": "inbox/cooking-base.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -142,7 +223,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "notes/Что нужно девушкам.md",
+            "file": "inbox/cooking-base.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -154,7 +235,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "notes/Что нужно девушкам.md"
+            "file": "inbox/cooking-base.md"
           }
         }
       }
@@ -172,11 +253,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9b802aa3e970367b",
+  "active": "dd7c6d8d0fad6a60",
   "lastOpenFiles": [
+    "inbox/skvrd-image-from-clipboard.md",
+    "inbox/cooking-base.md",
+    "inbox/Skvrd-edit.md",
+    "inbox/skvrd-list-update.md",
+    "inbox/less-time-killing.md",
+    "goals/2023-05-18.md",
+    "inbox/skvtd-auth.md",
+    "goals/2023-05-17.md",
+    "README.md",
     "Отношач ебучий.canvas",
     "notes/Что нужно девушкам.md",
-    "goals/2023-05-17.md",
     "goals/2023-05-16.md",
     "Obsidian.md",
     "Думаем о великом.canvas",
