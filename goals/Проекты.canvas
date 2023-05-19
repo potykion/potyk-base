@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"f87efae9cc0cd92e","x":-259,"y":-129,"width":250,"height":60,"type":"text","text":"# Проекты"},
+		{"id":"a615834d9a295033","x":-514,"y":37,"width":250,"height":60,"type":"text","text":"potyk io"},
+		{"id":"ee9970d279e635a4","x":58,"y":7,"width":250,"height":60,"type":"text","text":"Potyk base"},
+		{"id":"bae47d0bb61798ed","x":-220,"y":97,"width":250,"height":60,"type":"text","text":"Potyk io v3"},
+		{"id":"5e4fac83b23f5569","x":100,"y":-159,"width":250,"height":60,"type":"text","text":"Skvrd"},
+		{"id":"9fa564f0f496f7aa","x":-576,"y":-100,"width":250,"height":60,"type":"text","text":"Player"},
+		{"id":"8c7c0fd96e447d8e","x":-489,"y":185,"width":250,"height":60,"type":"text","text":"Rbcn auto"},
+		{"id":"9c27e37dbd61f35b","x":-7,"y":175,"width":250,"height":60,"type":"text","text":"Rbcn lglz"}
+	],
+	"edges":[
+		{"id":"deeeec639024e7d8","fromNode":"f87efae9cc0cd92e","fromSide":"bottom","toNode":"a615834d9a295033","toSide":"top"},
+		{"id":"93c587052c7b3d5e","fromNode":"f87efae9cc0cd92e","fromSide":"bottom","toNode":"bae47d0bb61798ed","toSide":"top"},
+		{"id":"cf561673547df915","fromNode":"f87efae9cc0cd92e","fromSide":"bottom","toNode":"ee9970d279e635a4","toSide":"top"},
+		{"id":"421b71b09f292c14","fromNode":"f87efae9cc0cd92e","fromSide":"bottom","toNode":"5e4fac83b23f5569","toSide":"top"},
+		{"id":"4a92998bf8d3f643","fromNode":"f87efae9cc0cd92e","fromSide":"bottom","toNode":"9fa564f0f496f7aa","toSide":"top"},
+		{"id":"8b2ca9b2317f5d14","fromNode":"f87efae9cc0cd92e","fromSide":"bottom","toNode":"8c7c0fd96e447d8e","toSide":"top"},
+		{"id":"8a65a77c49cc92a0","fromNode":"f87efae9cc0cd92e","fromSide":"bottom","toNode":"9c27e37dbd61f35b","toSide":"top"}
+	]
+}

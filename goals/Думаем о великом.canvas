@@ -1,20 +1,24 @@
 {
 	"nodes":[
-		{"type":"text","text":"# Что мне нравится и что Великого можно сделать с этим","id":"c1cf6b7a9dff19fc","x":0,"y":-320,"width":385,"height":150,"color":"3"},
-		{"id":"dbbdc77e11c630a9","x":-671,"y":475,"width":409,"height":80,"color":"3","type":"text","text":"## Чтобы народ качало / развлекало\nВедь Mashupble был крутым"},
+		{"type":"text","text":"## Чтобы народ качало / развлекало\nВедь Mashupble был крутым","id":"dbbdc77e11c630a9","x":-671,"y":475,"width":409,"height":125,"color":"3"},
 		{"type":"text","text":"## Сделать свой интернет ","id":"5fcc2f14c72d5061","x":314,"y":475,"width":250,"height":80,"color":"3"},
-		{"type":"text","text":"Стримить ","id":"58afc7f76c2bb62c","x":-671,"y":270,"width":250,"height":60},
-		{"type":"text","text":"Сделать диджейсет и залить на ют ","id":"eec3183a8d6b9834","x":-1080,"y":270,"width":250,"height":60},
-		{"type":"text","text":"Получать деньги","id":"67c0503c55141a4f","x":-78,"y":-80,"width":250,"height":60},
-		{"type":"text","text":"Кодить и дизайнить ","id":"99eb8510f54091f7","x":243,"y":-80,"width":250,"height":60},
+		{"type":"text","text":"Стримить ","id":"58afc7f76c2bb62c","x":-493,"y":262,"width":250,"height":60},
+		{"type":"text","text":"Сделать диджейсет и залить на ют ","id":"eec3183a8d6b9834","x":-1022,"y":262,"width":250,"height":60},
+		{"type":"text","text":"Получать деньги","id":"67c0503c55141a4f","x":-20,"y":-80,"width":250,"height":60},
+		{"type":"text","text":"Кодить и дизайнить ","id":"99eb8510f54091f7","x":282,"y":-80,"width":250,"height":60},
 		{"type":"text","text":"Смотреть порнуху и дрочить ","id":"e3e17b6678adc176","x":885,"y":-80,"width":250,"height":60},
-		{"type":"text","text":"Есть и пить","id":"cdf27c7de45bcfbd","x":564,"y":-80,"width":250,"height":60},
-		{"type":"text","text":"Сидеть в соцсетях, смотреть видосы","id":"2110a429c6f82710","x":-720,"y":-80,"width":250,"height":60},
-		{"type":"text","text":"Слушать музыку, ходить на концы","id":"6ca9ad9156e1a758","x":-399,"y":-80,"width":250,"height":60},
-		{"type":"text","text":"Сделать бусти","id":"8c391185c99667cc","x":-78,"y":40,"width":250,"height":60},
+		{"type":"text","text":"Есть и пить","id":"cdf27c7de45bcfbd","x":584,"y":-80,"width":250,"height":60},
+		{"type":"text","text":"Сидеть в соцсетях, смотреть видосы","id":"2110a429c6f82710","x":-624,"y":-80,"width":250,"height":60},
+		{"type":"text","text":"Слушать музыку, ходить на концы","id":"6ca9ad9156e1a758","x":-322,"y":-80,"width":250,"height":60},
 		{"type":"text","text":"Собрать коллекцию порно и игрушек","id":"845bed6c5bc1746f","x":885,"y":40,"width":250,"height":60},
 		{"type":"text","text":"Сделать кулинарную книгу","id":"a6db2aa6bb23abeb","x":564,"y":270,"width":250,"height":60},
-		{"type":"text","text":"Сделать музыкальный сервис","id":"1a10819a2ed9db63","x":-125,"y":270,"width":250,"height":60}
+		{"type":"text","text":"Сделать музыкальный сервис","id":"1a10819a2ed9db63","x":36,"y":270,"width":250,"height":60},
+		{"type":"text","text":"Наводить порядок, делать списки","id":"6cd80ee1b63cfcbc","x":-926,"y":-80,"width":250,"height":60},
+		{"id":"9f7f4113a22ac77d","x":-1572,"y":-81,"width":292,"height":61,"type":"text","text":"Быть нужным / служить, но чтобы и мне это нравилось"},
+		{"type":"text","text":"Сделать бусти / донаты","id":"8c391185c99667cc","x":-333,"y":40,"width":250,"height":60},
+		{"type":"text","text":"# Что мне нравится и что Великого можно сделать с этим\nИли хотя бы заработать на этом","id":"c1cf6b7a9dff19fc","x":3,"y":-520,"width":385,"height":200,"color":"3"},
+		{"id":"7b45ae6f81b9b5a0","x":-1228,"y":-95,"width":250,"height":60,"type":"text","text":"Инвестировать"},
+		{"id":"b8f31f4a0c9c8c93","x":-1551,"y":262,"width":250,"height":60,"type":"text","text":"2+ работы"}
 	],
 	"edges":[
 		{"id":"4969d2fc1d98be5f","fromNode":"c1cf6b7a9dff19fc","fromSide":"right","toNode":"e3e17b6678adc176","toSide":"top"},
@@ -41,6 +45,12 @@
 		{"id":"02df0d2a9917fbf2","fromNode":"8c391185c99667cc","fromSide":"left","toNode":"58afc7f76c2bb62c","toSide":"top"},
 		{"id":"3e5f002d6fd0fa1c","fromNode":"2110a429c6f82710","fromSide":"bottom","toNode":"58afc7f76c2bb62c","toSide":"top"},
 		{"id":"de80979f7c138db7","fromNode":"eec3183a8d6b9834","fromSide":"bottom","toNode":"dbbdc77e11c630a9","toSide":"top"},
-		{"id":"bddf4a6e1fe82973","fromNode":"58afc7f76c2bb62c","fromSide":"bottom","toNode":"dbbdc77e11c630a9","toSide":"top"}
+		{"id":"bddf4a6e1fe82973","fromNode":"58afc7f76c2bb62c","fromSide":"bottom","toNode":"dbbdc77e11c630a9","toSide":"top"},
+		{"id":"0ea0dffbe575950c","fromNode":"c1cf6b7a9dff19fc","fromSide":"left","toNode":"6cd80ee1b63cfcbc","toSide":"top"},
+		{"id":"a600bf2e5c2488ea","fromNode":"c1cf6b7a9dff19fc","fromSide":"left","toNode":"9f7f4113a22ac77d","toSide":"top"},
+		{"id":"b06a2da9a9ae6dc5","fromNode":"9f7f4113a22ac77d","fromSide":"bottom","toNode":"b8f31f4a0c9c8c93","toSide":"top"},
+		{"id":"5edc80e72261647d","fromNode":"c1cf6b7a9dff19fc","fromSide":"bottom","toNode":"7b45ae6f81b9b5a0","toSide":"top"},
+		{"id":"3e78f0b9c43b9520","fromNode":"7b45ae6f81b9b5a0","fromSide":"bottom","toNode":"b8f31f4a0c9c8c93","toSide":"top"},
+		{"id":"2a262e252f6a5dcb","fromNode":"7b45ae6f81b9b5a0","fromSide":"bottom","toNode":"8c391185c99667cc","toSide":"top"}
 	]
 }

@@ -2,5 +2,8 @@
   "accentColor": "",
   "theme": "moonstone",
   "translucency": false,
-  "baseFontSize": 16
+  "baseFontSize": 16,
+  "enabledCssSnippets": [
+    "media-grid-snippet"
+  ]
 }

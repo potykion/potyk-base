@@ -4,34 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "9866336bc2cb5e27",
+        "id": "d73096add4f2a07e",
         "type": "tabs",
         "children": [
           {
-            "id": "925a745343af853e",
+            "id": "776f6857c3e3c5aa",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "19d9046fb7b3348f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "goals/2023-05-18.md",
+                "file": "goals/2023-05-19.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           },
           {
-            "id": "d653489ee49121b9",
+            "id": "0a3a8754e6e1cf09",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_templates/goals.md",
+                "file": "inbox/Вставка картинок из буффера.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,7 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 207.5
+    "width": 357.5
   },
   "right": {
     "id": "d82091c632194a63",
@@ -97,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "goals/2023-05-18.md",
+                "file": "goals/2023-05-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "goals/2023-05-18.md",
+                "file": "goals/2023-05-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "goals/2023-05-18.md"
+                "file": "goals/2023-05-19.md"
               }
             }
           },
@@ -150,11 +159,12 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 384.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,51 +177,57 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "925a745343af853e",
+  "active": "19d9046fb7b3348f",
   "lastOpenFiles": [
-    "_templates/goals.md",
-    "goals/2023-05-18.md",
-    "base/invest-modeling.md",
-    "base/invest-results.md",
-    "base/Отношач ебучий.canvas",
-    "base/obs-mobile.md",
-    "inbox/obs-mobile.md",
-    "goals/skvrd/skvtd-auth.md",
-    "goals/skvrd/skvrd-list-update.md",
-    "goals/skvrd/skvrd-image-from-clipboard.md",
-    "goals/skvrd/Skvrd-edit.md",
-    "goals/skvrd/obs-mobile.md",
+    "goals/skvrd/Вставка картинки из буффера.md",
+    "goals/skvrd/карандашик вниз.md",
+    "inbox/Вставка картинок из буффера.md",
+    "goals/2023-05-19.md",
     "goals/skvrd/cooking-base.md",
+    "base/AI-coding.md",
+    "base/travel/spb.md",
+    "base/travel/100-mest-ekat.md",
+    "base/travel/ekat.md",
+    "base/travel/ekat-ymaps.md",
+    "base/travel",
+    "base/obsidian/Obsidian.md",
+    "base/Сыр.md",
+    "base/Посмотреть позже.md",
+    "base/Диаграммы.md",
+    "inbox/Диаграммы.md~",
+    "base/obsidian/Obsidian Media Grid.md",
+    "base/obsidian",
+    "base/python/syrupy.md",
+    "base/python/py-tools.md",
+    "base/python/celery-tasks.md",
+    "base/python",
+    "base/celery-tasks.md",
+    "base/celery-tasks.md~",
+    "base/apps-script/Apps Script.md",
+    "base/apps-script/Чистка GMail.md",
+    "base/apps-script/clean-gmail.jpeg",
+    "base/apps-script/apps-script.jpeg",
+    "base/apps-script",
+    "README.md",
+    "base/Во что поиграть.md",
+    "base/base64.md",
+    "goals/skvrd/skvrd-list-update.md",
+    "goals/skvrd/Ауф.md",
+    "base/AI-coding.md~",
+    "goals/Думаем о великом.canvas",
+    "goals/Проекты.canvas",
+    "goals/potyk-io.canvas",
+    "base/Отношач ебучий.canvas",
     "goals/skvrd",
     "Отношач ебучий.canvas",
     "Думаем о великом.canvas",
     "base/Pasted image 20230518125706.png",
-    "base/Что нужно девушкам.md",
-    "base/Средства от похмелья.md",
-    "base/Лягушка, слон и брокколи.md",
-    "base/Добрый реаниматолог.md",
-    "base/Биохакинк без фанатизма.md",
-    "base/vodka.md",
     "base/vine2.jpg",
     "base/vine1.jpg",
-    "base/vine.md",
-    "base/spb.md",
-    "base/py-tools.md",
-    "base/Obsidian.md",
-    "base/idea-plugins.md",
-    "base/how-to-travel.md",
-    "base/games.md",
-    "base/ekat-ymaps.md",
     "Pasted image 20230518125706.png",
     "README.md~",
-    "goals/Думаем о великом.canvas",
     "inbox",
-    "goals/potyk-io.canvas",
     "goals/skvrd.canvas",
-    "notes/Untitled.canvas",
-    "travel",
-    "_templates",
-    "goals",
-    "base"
+    "notes/Untitled.canvas"
   ]
 }

@@ -1,4 +1,4 @@
-#ai #ai-coding
+#ai #тулзы 
 
 - https://sourceforge.net/software/ai-coding-assistants/integrates-with-intellij-idea/
 

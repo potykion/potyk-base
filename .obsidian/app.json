@@ -34,5 +34,6 @@
     "editor:toggle-numbered-list",
     "editor:toggle-keyboard",
     "editor:configure-toolbar"
-  ]
+  ],
+  "livePreview": false
 }
