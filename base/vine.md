@@ -1,10 +1,4 @@
----
-tags:
-  - alko
-hide:
-  - toc
-  - navigation
----
+#алко 
 
 # Вино
 
