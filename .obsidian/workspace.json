@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "8365192029e92d22",
+        "id": "52a8d187ac2286cb",
         "type": "tabs",
         "children": [
           {
-            "id": "af783de9378e774e",
+            "id": "6229c291d4e9dac5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "base/Идеи.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "invest",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 357.5,
-    "collapsed": true
+    "width": 357.5
   },
   "right": {
     "id": "d82091c632194a63",
@@ -83,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "base/Идеи.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "base/Идеи.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "base/Идеи.md"
+              }
             }
           },
           {
@@ -160,8 +167,31 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "af783de9378e774e",
+  "active": "6229c291d4e9dac5",
   "lastOpenFiles": [
+    "base/invest-modeling.md",
+    "README.md",
+    "base/OCR.md",
+    "base/Идеи.md",
+    "goals/Проекты.canvas",
+    "goals/potyk-io.canvas",
+    "goals/Думаем о великом.canvas",
+    "base/Svelte_Cheatsheet.md",
+    "_templates/goals.md",
+    "base/js/js-zip.md",
+    "base/js/js-typing.md",
+    "base/js/js-security.md",
+    "base/js/js-groupby.md",
+    "base/js/js-g-auth.md",
+    "base/js/js-form-validation.md",
+    "base/js/js-fetch.md",
+    "base/js/js-download-file.md",
+    "base/js/js-clickable-links.md",
+    "base/js/js-arr-remove.md",
+    "base/js/js-2023.md",
+    "base/js/framework.jfif",
+    "base/Гиги.md",
+    "base/js",
     "base/Посмотреть позже.md",
     "base/how-to-cheese.md",
     "base/vodka.md",
@@ -169,26 +199,8 @@
     "base/Mjolnir.md",
     "base/ГастроФесты.md",
     "base/apps-script/Apps Script.md",
-    "base/Гиги.md",
-    "_templates/goals.md",
     "base/events/Греча.md",
-    "base/events/Сыр_Пир_Мир.md",
-    "base/events/Russian_Grill_Fest.md",
-    "base/events/Праздник_Огурца.md",
-    "base/events/Клин_Май_Фест.md",
-    "inbox/Russian.md",
-    "inbox/Клин.md",
-    "base/Сыр.md",
-    "base/books/Что почитать.md",
-    "base/books/Лягушка, слон и брокколи.md",
     "base/books",
-    "base/Идеи.md",
-    "base/less-time-killing.md",
-    "base/Go Mongo Фильтры.md",
-    "base/Adobe Image Resizer.md",
-    "base/Вставка картинок из буффера.md",
-    "base/Frontend Тулзы.md",
-    "base/Музыка на фон.md",
     "base/events",
     "base/travel",
     "inbox/Диаграммы.md~",
@@ -198,12 +210,7 @@
     "base/apps-script/clean-gmail.jpeg",
     "base/apps-script/apps-script.jpeg",
     "base/apps-script",
-    "base/AI-coding.md~",
-    "goals/Думаем о великом.canvas",
-    "goals/Проекты.canvas",
-    "goals/potyk-io.canvas",
     "base/Отношач ебучий.canvas",
-    "goals/skvrd",
     "Отношач ебучий.canvas",
     "Думаем о великом.canvas",
     "base/Pasted image 20230518125706.png",
