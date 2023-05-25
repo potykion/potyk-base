@@ -21,7 +21,7 @@ https://stackoverflow.com/a/58437909/5500609
 
 ```js
 await fetch(
-    '/company/config_settings/verification' + new URLSearchParams({status: this.status}),
+    `/company/config_settings/verification?${new URLSearchParams({status: this.status})}`,
 )
 ```
 

@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "52a8d187ac2286cb",
+        "id": "bb7fd65dea652994",
         "type": "tabs",
         "children": [
           {
-            "id": "6229c291d4e9dac5",
+            "id": "a8dd81cf5d11a4ae",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "base/Идеи.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "invest",
+                "query": "идеи",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +61,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "base/Идеи.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "base/Идеи.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "base/Идеи.md"
-              }
+              "state": {}
             }
           },
           {
@@ -167,39 +158,39 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "6229c291d4e9dac5",
+  "active": "a8dd81cf5d11a4ae",
   "lastOpenFiles": [
-    "base/invest-modeling.md",
-    "README.md",
-    "base/OCR.md",
-    "base/Идеи.md",
-    "goals/Проекты.canvas",
-    "goals/potyk-io.canvas",
-    "goals/Думаем о великом.canvas",
-    "base/Svelte_Cheatsheet.md",
-    "_templates/goals.md",
-    "base/js/js-zip.md",
-    "base/js/js-typing.md",
-    "base/js/js-security.md",
-    "base/js/js-groupby.md",
-    "base/js/js-g-auth.md",
-    "base/js/js-form-validation.md",
+    "base/js/JS_for_Py.md",
     "base/js/js-fetch.md",
     "base/js/js-download-file.md",
     "base/js/js-clickable-links.md",
     "base/js/js-arr-remove.md",
     "base/js/js-2023.md",
+    "base/js/js-g-auth.md",
+    "base/js/js-security.md",
+    "base/js/js-typing.md",
+    "base/js/js-zip.md",
+    "base/js/js-groupby.md",
+    "base/Идеи.md",
+    "base/AI-coding.md",
+    "inbox/Обзор_AI.md",
+    "base/OCR.md",
+    "base/invest-modeling.md",
+    "inbox/Инвест_идеи.md",
+    "base/invest-500k.md",
+    "README.md",
+    "goals/Проекты.canvas",
+    "goals/potyk-io.canvas",
+    "goals/Думаем о великом.canvas",
+    "base/Svelte_Cheatsheet.md",
+    "_templates/goals.md",
+    "base/js/js-form-validation.md",
     "base/js/framework.jfif",
     "base/Гиги.md",
     "base/js",
     "base/Посмотреть позже.md",
     "base/how-to-cheese.md",
     "base/vodka.md",
-    "base/vine.md",
-    "base/Mjolnir.md",
-    "base/ГастроФесты.md",
-    "base/apps-script/Apps Script.md",
-    "base/events/Греча.md",
     "base/books",
     "base/events",
     "base/travel",

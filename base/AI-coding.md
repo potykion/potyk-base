@@ -4,12 +4,46 @@
 
 | Название                                                                                          | Platform     | Бесплатно? | Разные варианты | Py    | Svelte | Go    | Беды                                   |
 |:------------------------------------------------------------------------------------------------- | ------------ |:---------- | --------------- | ----- | ------ | ----- | -------------------------------------- |
-| AWS CodeWhisperer                                                                                 | IDEA, VSCODE | Да         | Да              | 3 / 5 | 0 / 5  | 4 / 5 |                                        |
-| Codeium                                                                                           | IDEA         | Да         | Нет             | 2 / 5 |        |       | Беда со скобками<br/>Рандом предлагает |
 | K.Explorer                                                                                        | Eclipse      |            |                 |       |        |       |                                        |
-| Github Copilot                                                                                    | IDEA, VSCODE | Нет        |                 |       |        |       |                                        |
 | Kite                                                                                              | IDEA         |            |                 |       |        |       |                                        |
 | Tabnine                                                                                           | IDEA         | Нет        |                 |       |        |       |                                        |
 | [Full Line Code Completion](https://plugins.jetbrains.com/plugin/14823-full-line-code-completion) | IDEA         |            |                 |       |        |       |                                        |
 | SonarLint                                                                                         |              |            |                 |       |        |       |                                        |
-| [StarCoder](https://marketplace.visualstudio.com/items?itemName=HuggingFace.huggingface-vscode)   | VSCODE       |            |                 |       |        |       |                                        |
+
+## AWS CodeWhisperer
+
+- **Платформа:** Idea / Vscode
+- **Бесплатно:** да
+- **Сетап:** расширение + логин через aws
+- **Разные варианты:** да
+- **Поддержка языков:** не все, напр. нет Svelte
+- **Проблемы:** иногда просто мешает, предлагая рандомный код
+- **Плюсы:** хорошо работает с го
+- **Вывод:** норм варик на idea, особенно с типизированными языками
+
+## Codeium
+
+- **Платформа:** Idea 
+- **Бесплатно:** да
+- **Сетап:** расширение + логин через Codeium
+- **Разные варианты:** нет
+- **Поддержка языков:** -
+- **Проблемы:** плохо расставляет скобки на python
+- **Плюсы:** -
+- **Вывод:** хуже aws
+
+## StarCoder
+
+- https://marketplace.visualstudio.com/items?itemName=HuggingFace.huggingface-vscode
+- **Платформа:** Vscode
+- **Бесплатно:** да
+- **Сетап:** расширение + логин через Hugging Face
+- **Разные варианты:** нет
+- **Поддержка языков:** все
+- **Проблемы:** 
+- **Плюсы:** понимает Svelte
+- **Вывод:** норм вар на vscode
+
+## Github Copilot
+
+- **Бесплатно:** нет!
