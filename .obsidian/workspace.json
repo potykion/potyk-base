@@ -4,18 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "bb7fd65dea652994",
+        "id": "0c175d95bec33de6",
         "type": "tabs",
         "children": [
           {
-            "id": "a8dd81cf5d11a4ae",
+            "id": "2f8e5e88d61e676d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "base/Идеи.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "27ab0ec42a7e0630",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "inbox/Пивной_словарь.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "eda3c1e6da9d3556",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -65,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 357.5
+    "width": 357.5,
+    "collapsed": true
   },
   "right": {
     "id": "d82091c632194a63",
@@ -138,12 +164,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 384.5,
-    "collapsed": true
+    "width": 384.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,56 +183,60 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "a8dd81cf5d11a4ae",
+  "active": "eda3c1e6da9d3556",
   "lastOpenFiles": [
-    "base/js/JS_for_Py.md",
-    "base/js/js-fetch.md",
-    "base/js/js-download-file.md",
-    "base/js/js-clickable-links.md",
-    "base/js/js-arr-remove.md",
-    "base/js/js-2023.md",
-    "base/js/js-g-auth.md",
-    "base/js/js-security.md",
-    "base/js/js-typing.md",
-    "base/js/js-zip.md",
-    "base/js/js-groupby.md",
+    "inbox/Пивной_словарь.md",
+    "base/code/ops/yc.md",
     "base/Идеи.md",
-    "base/AI-coding.md",
-    "inbox/Обзор_AI.md",
-    "base/OCR.md",
-    "base/invest-modeling.md",
-    "inbox/Инвест_идеи.md",
-    "base/invest-500k.md",
-    "README.md",
+    "base/code/js/ts/ts-enums.md",
+    "base/code/js/ts",
+    "base/code/js/New folder",
+    "base/code/css/tailwind-between.png",
+    "base/code/css/tailwind.md",
+    "base/code/css",
+    "base/code/New folder",
+    "base/code/python/subprocess.md",
+    "base/code/python/Subprocess.png",
+    "base/code/ops/git/git-msg-template.md",
+    "base/code/ops/git/git-branches-sucks.md",
+    "base/code/ops/git/pre-commit.md",
+    "base/code/ops/git/git-remove.md",
+    "base/code/ops/git",
+    "base/code/ops/New folder",
+    "base/code/ops/docker/docker-cheatsh.md",
+    "base/code/ops/docker/docker-build-problems.md",
+    "base/code/ops/docker/docker-arg.md",
+    "base/code/ops/docker/docker-logs.md",
+    "base/code/ops/docker/docker-images.md",
+    "base/code/ops/docker",
+    "base/code/ops/sh/sh-params.md",
+    "base/code/ops/sh/sh-env.md",
+    "base/code/ops/sh/sh-date.md",
+    "base/code/ops/sh/sh-perm-denied.md",
+    "base/code/ops/sh",
+    "base/code/go/learn-go.md",
+    "base/code/js/apps-script/Чистка GMail.md",
+    "base/code/js/apps-script/apps-script.jpeg",
+    "base/code/js/apps-script/Apps Script.md",
+    "base/code/js/apps-script/clean-gmail.jpeg",
+    "base/code/js/apps-script",
+    "base/code/ops/docker-images.md",
+    "base/code/ops/docker-cheatsh.md",
+    "base/code/ops/docker-build-problems.md",
+    "base/code/ops/docker-arg.md",
+    "base/code/js/vue/FormKit.png",
+    "base/code/ops/sc.png",
+    "base/code/ops/bb-ci/test-report.png",
+    "base/code/ops/bb-ci/deployment-vars.png",
+    "base/code/ops/bb-ci/pipelines.png",
+    "base/code/ops/bb-ci/deployment-monitor.png",
+    "base/code/ops/bb-ci",
     "goals/Проекты.canvas",
     "goals/potyk-io.canvas",
     "goals/Думаем о великом.canvas",
-    "base/Svelte_Cheatsheet.md",
-    "_templates/goals.md",
-    "base/js/js-form-validation.md",
-    "base/js/framework.jfif",
-    "base/Гиги.md",
-    "base/js",
-    "base/Посмотреть позже.md",
-    "base/how-to-cheese.md",
-    "base/vodka.md",
-    "base/books",
-    "base/events",
-    "base/travel",
-    "inbox/Диаграммы.md~",
-    "base/obsidian",
-    "base/python",
-    "base/celery-tasks.md~",
-    "base/apps-script/clean-gmail.jpeg",
-    "base/apps-script/apps-script.jpeg",
-    "base/apps-script",
     "base/Отношач ебучий.canvas",
     "Отношач ебучий.canvas",
     "Думаем о великом.canvas",
-    "base/Pasted image 20230518125706.png",
-    "base/vine2.jpg",
-    "base/vine1.jpg",
-    "Pasted image 20230518125706.png",
     "goals/skvrd.canvas",
     "notes/Untitled.canvas"
   ]
