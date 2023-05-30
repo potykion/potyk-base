@@ -1,7 +1,4 @@
----
- tags:
-   - py
----
+#py #django 
 
 # Django
 

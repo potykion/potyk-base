@@ -8,14 +8,14 @@ tags:
 ## Что это?
 
 - https://django-ninja.rest-framework.com/
-- Надстройка над [Django](index.md) позволяющая юзать pydantic, аналогично FastAPI
+- Надстройка над [Django](Django.md) позволяющая юзать pydantic, аналогично FastAPI
 
 ## Чем хорош?
 
 - Аналогично FastAPI: автоматически генерит Swagger-доку по пути `/api/docs`
 - Аналогично FastAPI: Хорошие валидационные ошибки: `body.ctx.services.0.order_fee.0.__root__` - максимально подробный
   путь, где возникла ошибка
-- Все что работает для Django, должно работать и для Django Ninja, напр. [CORS](index.md#cors)
+- Все что работает для Django, должно работать и для Django Ninja, напр. [CORS](Django.md#cors)
 
 ## ФАК
 

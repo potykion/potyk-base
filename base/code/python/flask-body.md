@@ -1,9 +1,5 @@
----
-tags:
-  - flask
-hide:
-  - toc
----
+#flask #py
+
 
 # Как получить данные запроса во Flask?
 

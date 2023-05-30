@@ -1,9 +1,5 @@
----
-tags:
-  - flask
-hide:
-  - toc
----
+#flask #py
+
 
 # Чем мне нравится Flask
 

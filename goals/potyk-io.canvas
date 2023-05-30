@@ -6,7 +6,7 @@
 		{"type":"text","text":"# potyk-io","id":"f021847bc3b4d97b","x":-185,"y":-540,"width":250,"height":60},
 		{"type":"text","text":"## Пиво","id":"467467a718d28609","x":-560,"y":-460,"width":250,"height":60,"color":"3"},
 		{"type":"text","text":"## Tools","id":"b46fd571fcdb0663","x":25,"y":-326,"width":250,"height":60,"color":"3"},
-		{"type":"text","text":"### Фичи диаграмм\n- Obsidian: Маркдаун в карточках, локальные файлы","id":"1b1f12d74a81ffbb","x":-71,"y":-106,"width":250,"height":126},
+		{"type":"text","text":"### Фичи диаграмм\n- Obsidian: Маркдаун в карточках, локальные файлы","id":"1b1f12d74a81ffbb","x":-71,"y":-106,"width":250,"height":166},
 		{"type":"text","text":"~~- Obsidian: мобилка~~","id":"bba661e50de10de7","x":240,"y":-150,"width":250,"height":50},
 		{"type":"text","text":"- Сервис подбора пива  \n- Автоматизация того че выбрать в беру выходной","id":"d605b85f2eb4639a","x":-970,"y":-567,"width":250,"height":137},
 		{"type":"text","text":"Аналогично сервис про рестики","id":"70e46af4cad8a2dc","x":-739,"y":-683,"width":250,"height":60},

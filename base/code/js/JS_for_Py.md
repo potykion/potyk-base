@@ -1,3 +1,4 @@
+#js #py 
 
 # JS для Python разраба
 

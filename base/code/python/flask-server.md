@@ -1,9 +1,4 @@
----
-tags:
-  - flask
-hide:
-  - toc
----
+#flask #py
 
 # Flask-серв в тестах
 

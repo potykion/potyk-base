@@ -1,10 +1,11 @@
 ---
 tags:
   - django
+  - testing
 ---
 
 
-# Тестирование
+# Тестирование в Django
 
 ## Как переопределить настройки?
 
@@ -92,4 +93,20 @@ assert (
 DJANGO_SETTINGS_MODULE = root.test_settings
 ;Переиспользование бд, аналогично флагу keep-db
 addopts = --reuse-db
+```
+
+### Как тестить запросы?
+
+```python
+@pytest.mark.django_db
+def test_ok(client):
+    resp: HttpResponse = client.post(
+        '/api/...',
+        {
+            # json
+        },
+        content_type='application/json',
+    )
+
+    assert resp.status_code == 200
 ```

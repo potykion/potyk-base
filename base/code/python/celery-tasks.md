@@ -1,4 +1,4 @@
-#celery #python
+#celery #py
 
 # Вызов тасок в Celery
 

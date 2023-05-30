@@ -3,6 +3,7 @@ title: Go для Python разраба
 description: Как штуки из Python делаются в Go
 tags:
   - go
+  - py
 hide:
   - toc
 ---

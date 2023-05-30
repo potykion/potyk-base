@@ -2,6 +2,7 @@
  tags:
    - dev
    - rapid-dev
+   - ops
 ---
 
 # Pre-commit хуки

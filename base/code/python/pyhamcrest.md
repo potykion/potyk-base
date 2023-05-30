@@ -1,9 +1,4 @@
----
-tags:
-  - testing
-hide:
-  - toc
----
+#py #testing 
 
 # Улучшение читаемости тестов с помощью PyHamcrest
 

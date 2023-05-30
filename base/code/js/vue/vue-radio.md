@@ -1,6 +1,7 @@
 ---
 tags:
   - vue
+  - html
 ---
 
 # Как писать radio-button-ы?

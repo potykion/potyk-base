@@ -4,43 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "0c175d95bec33de6",
+        "id": "a2c1a4adfd5cd319",
         "type": "tabs",
         "children": [
           {
-            "id": "2f8e5e88d61e676d",
+            "id": "2251368feeec0f72",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "base/Идеи.md",
+                "file": "inbox/Фильмы_2023.md",
                 "mode": "source",
                 "source": true
               }
-            }
-          },
-          {
-            "id": "27ab0ec42a7e0630",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "inbox/Пивной_словарь.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "eda3c1e6da9d3556",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -69,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "идеи",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -107,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "inbox/Фильмы_2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "inbox/Фильмы_2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "inbox/Фильмы_2023.md"
+              }
             }
           },
           {
@@ -168,7 +151,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 384.5
+    "width": 384.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,61 +167,61 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "eda3c1e6da9d3556",
+  "active": "2251368feeec0f72",
   "lastOpenFiles": [
-    "inbox/Пивной_словарь.md",
-    "base/code/ops/yc.md",
-    "base/Идеи.md",
-    "base/code/js/ts/ts-enums.md",
+    "base/code/Дев_Тулзы.md",
+    "inbox/Untitled.md",
+    "inbox/Фильмы_2023.md",
+    "base/code/python/Python_Libs.md",
+    "base/code/html/html-encoding.md",
+    "base/code/js/vue/vue-file.md",
+    "base/code/js/vue/vue-radio.md",
+    "base/code/ops/bat.md",
+    "base/code/css/tailwind.md",
+    "base/code/go/go-for-py.md",
+    "base/code/js/JS_for_Py.md",
+    "base/code/ops/git/pre-commit.md",
+    "base/code/js/vue/petite-vue.md",
+    "base/obsidian/Obsidian.md",
+    "base/obsidian/Obsidian Media Grid.md",
+    "base/obs-mobile.md",
+    "base/code/python/py2-str.md",
+    "base/code/python/py23.md",
+    "base/code/python/django/dj-pytest.md",
+    "base/code/python/django/Django_Testing.md",
+    "base/code/python/django/dj-override.md",
+    "base/code/python/django/Django.md",
+    "base/code/python/pyhamcrest.md",
+    "base/code/python/py-libs/attrs.md",
+    "base/code/python/flask-love.md",
+    "base/code/python/flask-body.md",
+    "base/Pasted image 20230518125706.png",
+    "base/alko",
+    "base/code/js/svelte",
+    "goals/potyk-io.canvas",
+    "goals/skvrd.canvas",
     "base/code/js/ts",
     "base/code/js/New folder",
     "base/code/css/tailwind-between.png",
-    "base/code/css/tailwind.md",
     "base/code/css",
     "base/code/New folder",
-    "base/code/python/subprocess.md",
     "base/code/python/Subprocess.png",
-    "base/code/ops/git/git-msg-template.md",
-    "base/code/ops/git/git-branches-sucks.md",
-    "base/code/ops/git/pre-commit.md",
-    "base/code/ops/git/git-remove.md",
     "base/code/ops/git",
     "base/code/ops/New folder",
-    "base/code/ops/docker/docker-cheatsh.md",
-    "base/code/ops/docker/docker-build-problems.md",
-    "base/code/ops/docker/docker-arg.md",
-    "base/code/ops/docker/docker-logs.md",
-    "base/code/ops/docker/docker-images.md",
     "base/code/ops/docker",
-    "base/code/ops/sh/sh-params.md",
-    "base/code/ops/sh/sh-env.md",
-    "base/code/ops/sh/sh-date.md",
-    "base/code/ops/sh/sh-perm-denied.md",
     "base/code/ops/sh",
-    "base/code/go/learn-go.md",
-    "base/code/js/apps-script/Чистка GMail.md",
     "base/code/js/apps-script/apps-script.jpeg",
-    "base/code/js/apps-script/Apps Script.md",
     "base/code/js/apps-script/clean-gmail.jpeg",
-    "base/code/js/apps-script",
-    "base/code/ops/docker-images.md",
-    "base/code/ops/docker-cheatsh.md",
-    "base/code/ops/docker-build-problems.md",
-    "base/code/ops/docker-arg.md",
     "base/code/js/vue/FormKit.png",
     "base/code/ops/sc.png",
     "base/code/ops/bb-ci/test-report.png",
     "base/code/ops/bb-ci/deployment-vars.png",
     "base/code/ops/bb-ci/pipelines.png",
-    "base/code/ops/bb-ci/deployment-monitor.png",
-    "base/code/ops/bb-ci",
     "goals/Проекты.canvas",
-    "goals/potyk-io.canvas",
     "goals/Думаем о великом.canvas",
     "base/Отношач ебучий.canvas",
     "Отношач ебучий.canvas",
     "Думаем о великом.canvas",
-    "goals/skvrd.canvas",
     "notes/Untitled.canvas"
   ]
 }
