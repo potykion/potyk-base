@@ -39,3 +39,7 @@ export default defineConfig({
   }
 });
 ```
+
+## Альтернативы
+
+- https://github.com/HalfdanJ/svelte-google-auth - но чет оч замороченно: какие-то хуки, кучу файлов надо редачить и тд

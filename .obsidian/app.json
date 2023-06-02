@@ -36,5 +36,6 @@
     "editor:configure-toolbar"
   ],
   "livePreview": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "./"
 }

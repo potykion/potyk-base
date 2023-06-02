@@ -3,6 +3,7 @@ tags:
   - py
 ---
 
+{% raw %}
 # jinja2
 
 ## Что это?
@@ -76,10 +77,13 @@ text
 
 Фильтр - функции, которые можно применять внутри тега
 
+
 ```python
 
 assert jinja2.Template('{{ "sam" | upper }}').render() == 'SAM'
 ```
+
+
 
 ### Как писать свои?
 
@@ -150,3 +154,5 @@ rendered = env.get_template('template.html').render()
 
 assert rendered == "❤ order"
 ```
+
+{% endraw %}

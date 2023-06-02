@@ -23,7 +23,7 @@
 - [aiopg](https://github.com/aio-libs/aiopg) - асинхронная работа с постгресом, есть интеграция с sqlalchemy-запросами; альтернативы: [asyncpg](https://github.com/MagicStack/asyncpg)  
 - [repka](https://github.com/potykion/repka) - _собственная разработка_, асинхронная абстракция над бд на базе aiopg  
 - [pymongo](https://pymongo.readthedocs.io/en/stable/) - официальный клиент для работы с монгой, есть [асинхронная версия](https://motor.readthedocs.io/en/stable/)  
-  
+  - https://github.com/roman-right/beanie - асинхронная (есть синк варик) ормка над Mongo в стиле Pydantic 
 ---  
   
 ### Веб-клиенты  
