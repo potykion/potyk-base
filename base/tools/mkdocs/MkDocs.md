@@ -1,8 +1,4 @@
----
-cover: Code/Python/Tools/mkdocs.png
-tags:
-  - py
----
+#py #mkdocs #тулзы 
 
 # MkDocs
 
