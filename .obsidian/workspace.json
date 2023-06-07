@@ -168,6 +168,7 @@
   },
   "active": "99f8d9fdc4a15a71",
   "lastOpenFiles": [
+    "mkdocs.yml~",
     "base/Средства от похмелья.md",
     "base/Сыр.md",
     "base/Гиги.md",
@@ -195,7 +196,6 @@
     "base/code/idea-plugins.md",
     "base/how-to-cheese.md",
     "base/code/AI-coding.md",
-    "base/tools/Свалка_тулзов.md",
     "base/tools",
     "base/mu",
     "base/code/cdn.png",
