@@ -1,3 +1,9 @@
 site_name: potyk-base
-theme: material
+theme:
+  name: material
 docs_dir: base
+hooks:
+  - .mkdocs/hooks/transform_obs_tags.py
+plugins:
+  - tags:
+      tags_file: README.md
