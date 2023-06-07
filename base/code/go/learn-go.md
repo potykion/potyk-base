@@ -427,3 +427,36 @@ fmt.Println("The value:", v, "Present?", ok)
 
 
 https://go.dev/tour/methods/1
+
+## Что еще
+
+[https://youtube.com/playlist?list=PLrCZzMib1e9q-X5V9pTM6J0AemRWseM7I](https://youtube.com/playlist?list=PLrCZzMib1e9q-X5V9pTM6J0AemRWseM7I)  
+[x] 1  
+[x] 2  
+3  
+4  
+5  
+6  
+7  
+8  
+9  
+[https://go.dev/tour/welcome/1](https://go.dev/tour/welcome/1)  
+[x] Basics  
+Methods & interfaces  
+Generics  
+Concurrency  
+[http://golang-book.ru/](http://golang-book.ru/)  
+1  
+2  
+3  
+4  
+5  
+6  
+7  
+8  
+9  
+10  
+11  
+12  
+13  
+14

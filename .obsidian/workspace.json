@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "953ff0847a70f976",
+        "id": "d78fdadc04cacb7a",
         "type": "tabs",
         "children": [
           {
-            "id": "06b2aff854db52a4",
+            "id": "99f8d9fdc4a15a71",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ai",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 357.5,
-    "collapsed": true
+    "width": 357.5
   },
   "right": {
     "id": "d82091c632194a63",
@@ -82,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           },
           {
@@ -159,59 +166,60 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "06b2aff854db52a4",
+  "active": "99f8d9fdc4a15a71",
   "lastOpenFiles": [
-    "inbox/Моя_волна.md",
-    "inbox/Go_Либы.md",
-    "inbox/Primal.canvas",
-    "inbox/Топ_DNB.md",
-    "inbox/Идеи_для_плеера.md",
-    "base/code/Дев_Тулзы.md",
-    "base/code/js/Frontend Тулзы.md",
-    "inbox/Vue_либы.md",
-    "base/code/python/Python_Libs.md",
-    "base/code/python/py-tools.md",
-    "inbox/Тулзы_для_Yandex_Cloud.md",
-    "base/code/go/go-for-py.md",
-    "inbox/Svelte_Libs.md",
-    "base/code/js/JS_Libs.md",
+    "base/Средства от похмелья.md",
+    "base/Сыр.md",
+    "base/Гиги.md",
+    "base/ГастроФесты.md",
+    "base/events/Сыр_Пир_Мир.md",
+    "base/events/Праздник_Огурца.md",
+    "base/events/Клин_Май_Фест.md",
+    "base/events/Греча.md",
+    "base/events/Russian_Grill_Fest.md",
+    "base/travel/ekat.md",
+    "base/games/Fallout_New_Vegas_Extended.md",
+    "base/games/Во что поиграть.md",
+    "base/Посмотреть позже.md",
+    "base/games",
+    "README.md",
+    "base/Мысли_про_репо.md",
+    "base/Мысли про интернет.md",
+    "base/Десигн_Мусор.md",
+    "projects/Primal.canvas",
+    "projects/На что потратить вечность.md",
+    "base/Фильмы_2023.md",
+    "base/Пора_валить.md",
+    "projects/potyk-io-v3/goty-2023.md",
+    "base/ps-hack.md",
+    "base/code/idea-plugins.md",
+    "base/how-to-cheese.md",
+    "base/code/AI-coding.md",
+    "base/tools/Свалка_тулзов.md",
+    "base/tools",
+    "base/mu",
+    "base/code/cdn.png",
+    "base/rel",
+    "base/code/python/mkdocs",
+    "projects/player",
+    "base/money/div-rating.png",
+    "base/money",
+    "projects/Проекты.canvas",
+    "projects/Думаем о великом.canvas",
+    "projects/skvrd.canvas",
+    "projects/potyk-io-v3/potyk-io.canvas",
+    "projects/potyk-io-v3",
     "base/code/js/compressorjs.png",
-    "inbox/Мысли_2023-05-30.md",
-    "inbox/Mkdocs_Plugins.md",
-    "inbox/Свалка_тулзов.md",
-    "inbox/Frontend_Tools.md",
-    "inbox/Python_Профилирование_памяти.md",
-    "base/code/js/svelte/Svelte_Google_Auth.md",
-    "base/obsidian/Obsidian Media Grid.md",
-    "inbox/Obsidian_Plugins.md",
-    "inbox/Фильмы_2023.md",
-    "base/code/html/html-encoding.md",
-    "base/code/js/vue/vue-file.md",
-    "base/code/js/vue/vue-radio.md",
-    "base/Pasted image 20230518125706.png",
     "base/alko",
     "base/code/js/svelte",
-    "goals/potyk-io.canvas",
-    "goals/skvrd.canvas",
-    "base/code/js/ts",
-    "base/code/js/New folder",
     "base/code/css/tailwind-between.png",
-    "base/code/css",
-    "base/code/New folder",
     "base/code/python/Subprocess.png",
-    "base/code/ops/git",
-    "base/code/ops/New folder",
-    "base/code/ops/docker",
-    "base/code/ops/sh",
     "base/code/js/apps-script/apps-script.jpeg",
     "base/code/js/apps-script/clean-gmail.jpeg",
     "base/code/js/vue/FormKit.png",
     "base/code/ops/sc.png",
     "base/code/ops/bb-ci/test-report.png",
-    "base/code/ops/bb-ci/deployment-vars.png",
-    "goals/Проекты.canvas",
-    "goals/Думаем о великом.canvas",
-    "base/Отношач ебучий.canvas",
+    "base/rel/Отношач ебучий.canvas",
     "Отношач ебучий.canvas",
     "Думаем о великом.canvas",
     "notes/Untitled.canvas"

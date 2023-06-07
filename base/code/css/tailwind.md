@@ -61,3 +61,4 @@ hide:
 - [Typewind](https://typewind.dev/) - типизированный Tailwind
 - [Tailscan](https://tailscan.com/) - интерактивный Tailwind
 - [Mailwind](https://github.com/soheilpro/mailwind) - письма на Tailwind
+- [https://unocss.dev/](https://unocss.dev/) - альтернатива

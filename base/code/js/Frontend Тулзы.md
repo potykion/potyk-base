@@ -1,4 +1,4 @@
-#тулзы #frontend #js
+#тулзы #frontend #js #dev-тулзы
 
 # Frontend Тулзы
 
@@ -28,3 +28,6 @@
 - https://nuxt.studio/ - ide для nuxt
 - https://github.com/colinhacks/zod - поп-валидатор данных, типа pydantic для ts
 - https://github.com/pyscript/pyscript - python в браузере (вместо js)
+- https://github.com/marko-js/marko - html вместо фреймворков
+- https://github.com/posva/mande - упрощение fetch
+- https://github.com/vuejs/petite-vue - маленькая вьюшка

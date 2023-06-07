@@ -81,7 +81,9 @@
 - [loguru](https://github.com/Delgan/loguru) - лучшая либа для логгирования  
 - [stackprinter](https://github.com/cknd/stackprinter) - получше стектрейс; альтернативы: [PySnooper](https://github.com/cool-RR/PySnooper)  
 - [scalene](https://github.com/plasma-umass/scalene) - профилировщик  
-  
+- https://github.com/reloadware/reloadium - отладка в реальном времени
+- https://github.com/breuleux/jurigged - хот релоад
+
 ---  
   
 ### Девопс  
@@ -89,20 +91,38 @@
 - [gunicorn](https://gunicorn.org/) - популярный WSGI-сервер - масштабирует однопроцессорный сервы, типа джанги; альтернативы: [uvicorn](https://www.uvicorn.org/) - асинхронный WSGI-сервер - ASGI  
 - [Supervisor](http://supervisord.org/) - управление процессами - автоматически запускает/перезапускает процессы на линукс-машинке, напр. gunicorn, альтернативы: [Docker](https://www.docker.com/)  
 - [Fabric](http://www.fabfile.org/) - выполнение команд на удаленной машине; альтернативы: [ansible](https://docs.ansible.com/)  
+- https://github.com/dagger/dagger
+- 
   
 ---  
-  
+
+### UI
+
+- https://github.com/zauberzeug/nicegui
+- https://github.com/wxWidgets/Phoenix
+- https://github.com/pynecone-io/pynecone
+- https://github.com/flet-dev/flet
+
+---
+
 ### Прочее  
   
 - [poetry](https://github.com/python-poetry/poetry) - лучший менеджер зависимостей; есть [плагин для пайчарма](https://github.com/koxudaxi/poetry-pycharm-plugin)  
+- https://github.com/bndr/pipreqs - генерит requirements.txt из кода
+- https://github.com/tomerfiliba/plumbum - шелл в питоне
 - [pyjwt](https://pyjwt.readthedocs.io/en/stable/) - работа с jwt-токенами  
 - [python-dotenv](https://pypi.org/project/python-dotenv/) - читает .env-файл - файл с переменными окружения - удобно для локальных настроек  
 - [python-dependency-injector](https://github.com/ets-labs/python-dependency-injector) - норм ioc контейнер  
 - [celery](https://github.com/celery/celery) - либа для работы с очередями задач; альтернативы: [dramatiq](https://github.com/Bogdanp/dramatiq), [rq](https://github.com/rq/rq)  
 - [click](https://github.com/pallets/click) - либа для создания кли приложений; альтернативы: [typer](https://github.com/tiangolo/typer) - кли на тайпингах; [Gooey](https://github.com/chriskiehl/Gooey) - делает юай из кли  
 - [babel](http://babel.pocoo.org/en/latest/) - либа для локализации  
+	- https://github.com/python-babel/flask-babel
 - [pillow](https://pillow.readthedocs.io/en/stable/) - популярная либа для работы с картинками  
 - [pypiserver](https://github.com/pypiserver/pypiserver) - pypi сервер - полезно когда надо есть корпоративные либы  
 - [notifiers](https://github.com/liiight/notifiers) - либа для отправки уведомлений, напр. через Pushover; альтернативы: [apprise](https://github.com/caronc/apprise)  
+	- https://github.com/ms7m/notify-py
 - [Sourcetrail](https://github.com/CoatiSoftware/Sourcetrail) - строит граф зависимостей / иерархию классов; есть [плагин для пайчарма](https://github.com/CoatiSoftware/idea-sourcetrail)
 - https://github.com/PrefectHQ/marvin - pydantic-ai модели - считай типизированный скрепинг
+- https://github.com/evhub/coconut - фп в питоне
+- Еще тулзы можно найти тут - [py-tools](py-tools.md)
+- https://github.com/dosisod/refurb - "осовремениватель" питон кода 
