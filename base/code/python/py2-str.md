@@ -10,13 +10,13 @@
 - `unicode` - для всех букв (рус буквы можно юзать): `u'строка'`
 - Лучше везде использовать `unicode`
 
-## Как сделать unicode-строку из str-строки?
+## str > unicode
 
 ```python
 assert 'oppa'.decode('utf-8') == u'oppa'
 ```
 
-## Как сделать str-строку из unicode-строки?
+## unicode > str
 
 ```python
 assert u'oppa'.encode('utf-8') == 'oppa'

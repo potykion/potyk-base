@@ -1,0 +1,1 @@
+Promise.all в yandex cf - хуйня полная

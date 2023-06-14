@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "e583ba3c9a591ddc",
+        "id": "c9a56f9e21b19587",
         "type": "tabs",
         "children": [
           {
-            "id": "25f84c05346845a9",
+            "id": "aa5de67140e9bc67",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "base/tools/mkdocs/MkDocs.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "cb93274c9a2e1af6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "inbox/Полезные_статьи.md",
+                "file": "inbox/cf.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mkdocs",
+                "query": "tag:#celery",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "inbox/Полезные_статьи.md",
+                "file": "inbox/cf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "inbox/Полезные_статьи.md",
+                "file": "inbox/cf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "inbox/Полезные_статьи.md"
+                "file": "inbox/cf.md"
               }
             }
           },
@@ -179,47 +166,47 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "cb93274c9a2e1af6",
+  "active": "a389d9c4ea450095",
   "lastOpenFiles": [
-    "base/tools/mkdocs/MkDocs.md",
-    "inbox/Полезные_статьи.md",
-    "inbox/Untitled.md",
+    "base/code/python/Celery.md",
+    "base/code/python/celery-tasks.md",
+    "inbox/Чистка_GDrive.md",
+    "base/code/js/apps-script/Чистка GMail.md",
+    "inbox/Обновление.md",
+    "base/money/Подбор_акций.md",
+    "inbox/Линейная_регрессия_в_Excel.md",
+    "base/money/invest-500k.md",
+    "base/money/invest-modeling.md",
+    "base/money/Инвест_идеи.md",
+    "base/money/Где_мониторить_акции.md",
+    "inbox/Заметка для всего.md",
+    "projects/potyk-io-v3/Статья_про_активности.md",
+    "base/Идеи.md",
+    "base/Мысли про интернет.md",
+    "inbox/Стейки.md",
+    "base/code/python/py2-str.md",
+    "inbox/cf.md",
+    "base/less-time-killing.md",
+    "inbox/Частые проблемы с бд.md",
+    "inbox/Тесты_логов.md",
+    "inbox/Тестирование с помощью HTTP-запросов.md",
+    "inbox/Работа с бекапами.md",
+    "inbox/Примеры_данных.md",
+    "inbox/Запуск всех тестов.md",
+    "inbox/Вьюхи.md",
+    "base/money/portfolios.csv",
+    "base/money/portfolios_backup.json",
+    "base/money/portfolios.json",
+    "base/money/snowball.ipynb.tmp",
     "mkdocs.yml~",
-    "base/Посмотреть позже.md",
-    "inbox/Трекер_кукинга.md",
-    "inbox/Ненапряжные_активности.md",
-    "inbox/Трекер_еды.md",
-    "base/tools/mkdocs/Mkdocs_Plugins.md",
     "base/tools/mkdocs/mkdocs.png",
-    "base/tools/mkdocs/Как_расширить_mkdocs.md",
     "base/tools/mkdocs",
-    "projects/potyk-io-v3/Типичные задачи бекенд разраба.md",
-    "projects/potyk-io-v3/Выхораниэ и вот это все.md",
-    "README.md",
     "_mkdocs/hooks/transform_obs_tags.py",
     "_mkdocs/hooks",
     "_mkdocs",
     "hooks",
-    "base/README.md",
-    "base/Средства от похмелья.md",
-    "base/Сыр.md",
-    "base/Гиги.md",
-    "base/ГастроФесты.md",
-    "base/events/Сыр_Пир_Мир.md",
-    "base/events/Праздник_Огурца.md",
-    "base/events/Клин_Май_Фест.md",
-    "base/events/Греча.md",
-    "base/events/Russian_Grill_Fest.md",
-    "base/travel/ekat.md",
-    "base/games/Fallout_New_Vegas_Extended.md",
-    "base/games/Во что поиграть.md",
-    "base/games",
-    "base/Мысли_про_репо.md",
     "projects/Primal.canvas",
-    "base/tools",
-    "base/mu",
     "base/code/cdn.png",
-    "base/rel",
     "base/money/div-rating.png",
     "projects/Проекты.canvas",
     "projects/Думаем о великом.canvas",
