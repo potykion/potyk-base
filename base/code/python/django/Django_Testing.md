@@ -7,6 +7,12 @@ tags:
 
 # Тестирование в Django
 
+## Запуск всех тестов
+
+```shell
+python manage.py test project/ --keepdb  
+```
+
 ## Как переопределить настройки?
 
 ```python
@@ -79,6 +85,15 @@ assert (
     DateTimeField().to_representation(dt.datetime(2022, 6, 5, 23, 59, 59, 999000)) ==
     '2022-06-05T23:59:59.999'
 )
+```
+
+## Как тестировать код, который пишет логи?
+
+Использовать `multi_db = True`:
+
+```python
+class TestSendErisEmias(TestCase):
+    multi_db = True
 ```
 
 ## pytest

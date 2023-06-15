@@ -1,11 +1,23 @@
----
-tags:
-  - django
-title: Миграции в Django
-description: Как писать миграции в Django
----
+#py #django
 
 # Миграции в Django
+
+- Миграция - код, который запускает команды обновления бд
+- Например, захотели сделать новую колонку - добавляем в модель, затем создаем *миграцию*
+
+## Основные команды
+
+```shell
+# Создание миграции
+python manage.py makemigrations
+# Создание пустой миграции
+python manage.py makemigrations {app} --empty
+# Применение миграции
+python manage.py migrate
+# Применение миграции на другую базу (кейс нескольких бд)
+python manage.py migrate --database=logs
+# Мердж миграций
+```
 
 ## Как запускать код в миграции?
 

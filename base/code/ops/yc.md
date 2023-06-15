@@ -9,7 +9,7 @@ tags:
 
 ### Что это?
 
-- [Serverless Containers](https://cloud.yandex.ru/services/serverless-containers) - сервис, позволяющий запускать
+- [Serverless Containers](https://cloud.yandex.ru/services/serverless-containers) (sc) - сервис, позволяющий запускать
   Docker-контейнеры, не парясь об инфраструктуре
 - То есть получаем простейший воркфлоу:
     - Создаем ServerlessContainers-контейнер/инстанц
@@ -54,8 +54,18 @@ yc serverless container revision deploy
 
 - Важно запускать свою Docker-приложуньку на порту из переменной среды `PORT`
 
-## Ошибочки
+### Ошибочки
 
 - `http://127.0.0.1/endpoint EOF` - контейнер работает, нормально задеплоен, но во время его выполнения произошла ошибка
 - Надо смотреть логи, чтобы понять в чем дело
 - Например, запустили django через gunicorn и получили `worker terminated with signal 9` - значит мало памяти 
+
+
+## Cloud Functions
+
+- Cloud Functions (cf) - аналог aws-lambda - позволяет запускать код без всяких докеров/серверов - просто пишешь код, заливаешь его и можно запускать готовый ендпоинт и там само все масштабируется - т.е. еще проще sc
+
+> [!danger] CF и concurency
+> Запуск нескольких js-`Promise`-ов ведет к жесточайшему замедлению функции - так что лучше делать `await` последовательно, а не через `Promise.all`
+
+

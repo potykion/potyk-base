@@ -24,14 +24,7 @@
 
 ### Миграции
 
-```shell
-# Создание миграции
-python manage.py makemigrations
-# Создание пустой миграции
-python manage.py makemigrations {app} --empty
-# Применение миграции
-python manage.py migrate
-```
+
 
 ## CORS
 

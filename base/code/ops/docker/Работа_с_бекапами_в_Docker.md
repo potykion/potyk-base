@@ -1,6 +1,6 @@
-#может_пригодится
+#ops #docker #psql
 
-# Работа с бекапами
+# Работа с бекапами в Docker
 
 ## Переименование бд
 
@@ -69,13 +69,4 @@ psql -U postgres -d risx -f db.dump
 
 ```shell
 docker exec -i postgresql psql -h localhost -U postgres -c "ALTER USER postgres PASSWORD '12345';"
-```
-
-## Настройки бд
-
-- При изменении пароля необходимо изменить пароль в `.env`-файле
-
-```env
-POSTGRES_PASSWORD  
-POSTGRES_LOGS_PASSWORD
 ```

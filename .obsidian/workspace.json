@@ -4,22 +4,50 @@
     "type": "split",
     "children": [
       {
-        "id": "c9a56f9e21b19587",
+        "id": "c0cca12ab92893ae",
         "type": "tabs",
         "children": [
           {
-            "id": "aa5de67140e9bc67",
+            "id": "8d2a463d0d9e262a",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "base/alko/beer.canvas",
+                "viewState": {
+                  "x": -602.9270379973232,
+                  "y": -79.45572671871435,
+                  "zoom": -0.5000000000000003
+                }
+              }
+            }
+          },
+          {
+            "id": "8bfd929c2aa2ef3e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "inbox/cf.md",
+                "file": "base/alko/Пиво_База.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "0343c6bf26a9f121",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "base/alko/Пивной_словарь.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +97,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 357.5
+    "width": 357.5,
+    "collapsed": true
   },
   "right": {
     "id": "d82091c632194a63",
@@ -85,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "inbox/cf.md",
+                "file": "base/alko/Пиво_База.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "inbox/cf.md",
+                "file": "base/alko/Пиво_База.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "inbox/cf.md"
+                "file": "base/alko/Пиво_База.md"
               }
             }
           },
@@ -146,7 +175,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -166,45 +195,45 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "a389d9c4ea450095",
+  "active": "8bfd929c2aa2ef3e",
   "lastOpenFiles": [
-    "base/code/python/Celery.md",
-    "base/code/python/celery-tasks.md",
-    "inbox/Чистка_GDrive.md",
-    "base/code/js/apps-script/Чистка GMail.md",
-    "inbox/Обновление.md",
-    "base/money/Подбор_акций.md",
-    "inbox/Линейная_регрессия_в_Excel.md",
-    "base/money/invest-500k.md",
-    "base/money/invest-modeling.md",
-    "base/money/Инвест_идеи.md",
-    "base/money/Где_мониторить_акции.md",
-    "inbox/Заметка для всего.md",
-    "projects/potyk-io-v3/Статья_про_активности.md",
+    "base/alko/Пивной_словарь.md",
+    "base/alko/Пиво_База.md",
+    "base/alko/beer.canvas",
+    "inbox/Untitled 1.md",
+    "base/cinema_video/Фильмы_2023.md",
+    "base/alko/vine.md",
+    "base/alko/vodka.md",
+    "base/alko/Про_пиво_(Архив).md",
+    "inbox/Untitled.md",
+    "base/alko/Mjolnir.md",
+    "base/cinema_video/Посмотреть позже.md",
+    "projects/player/Идеи_для_плеера.md",
+    "projects/potyk-io-v3/Выхораниэ и вот это все.md",
+    "base/tools/Диаграммы.md",
     "base/Идеи.md",
-    "base/Мысли про интернет.md",
-    "inbox/Стейки.md",
-    "base/code/python/py2-str.md",
-    "inbox/cf.md",
-    "base/less-time-killing.md",
-    "inbox/Частые проблемы с бд.md",
-    "inbox/Тесты_логов.md",
-    "inbox/Тестирование с помощью HTTP-запросов.md",
-    "inbox/Работа с бекапами.md",
-    "inbox/Примеры_данных.md",
-    "inbox/Запуск всех тестов.md",
-    "inbox/Вьюхи.md",
+    "base/README.md",
+    "base/thoughts",
+    "base/thoughts/Мысли про интернет.md",
+    "base/cinema_video",
+    "base/travel/Пора_валить.md",
+    "base/lifestyle/what-to-do.md",
+    "base/lifestyle/Добрый реаниматолог.md",
+    "base/lifestyle/less-time-killing.md",
+    "base/lifestyle",
+    "base/travel/how-to-travel.md",
+    "base/mu/Музыка на фон.md",
+    "base/code/js/svelte/Вставка картинок из буффера.md",
+    "base/tools/Десигн_Мусор.md",
+    "base/mu/Гиги.md",
+    "base/food",
+    "base/code/testing",
     "base/money/portfolios.csv",
     "base/money/portfolios_backup.json",
     "base/money/portfolios.json",
     "base/money/snowball.ipynb.tmp",
     "mkdocs.yml~",
     "base/tools/mkdocs/mkdocs.png",
-    "base/tools/mkdocs",
-    "_mkdocs/hooks/transform_obs_tags.py",
-    "_mkdocs/hooks",
-    "_mkdocs",
-    "hooks",
     "projects/Primal.canvas",
     "base/code/cdn.png",
     "base/money/div-rating.png",
