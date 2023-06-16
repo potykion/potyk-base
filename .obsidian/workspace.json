@@ -4,69 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "7d3736d31b754ea6",
+        "id": "c53a83410dac5675",
         "type": "tabs",
         "children": [
           {
-            "id": "56755c0d55fd345f",
+            "id": "683af9b3698c6dc7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "base/money/Инвест_идеи.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "6598063b5b1803e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "base/money/Подбор_акций.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "df5d3ea4f37bf376",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "base/money/Где_мониторить_акции.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "93915ed2e1b75982",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "base/money/Во_что_я_вкладываюсь.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "23439249f98285d2",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "base/money/div-rating.png"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -116,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 357.5
+    "width": 357.5,
+    "collapsed": true
   },
   "right": {
     "id": "d82091c632194a63",
@@ -132,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "base/money/Подбор_акций.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "base/money/Подбор_акций.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "base/money/Подбор_акций.md"
-              }
+              "state": {}
             }
           },
           {
@@ -213,24 +159,25 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "6598063b5b1803e8",
+  "active": "683af9b3698c6dc7",
   "lastOpenFiles": [
+    "base/alko/Пиво_База.md",
+    "base/alko/Пивной_словарь.md",
+    "inbox/Кого_фолловить_в_Гитхабе.md",
+    "inbox/Базы_знаний.md",
+    "base/money/Подбор_акций.md",
     "base/money/Инвест_идеи.md",
     "base/money/Где_мониторить_акции.md",
     "base/money/Во_что_я_вкладываюсь.md",
     "base/money/invest-modeling.md",
     "base/money/div-rating.png",
-    "base/money/Подбор_акций.md",
     "base/money/invest-500k.md",
-    "base/alko/Пивной_словарь.md",
-    "base/alko/Пиво_База.md",
     "base/alko/beer.canvas",
     "inbox/Untitled 1.md",
     "base/cinema_video/Фильмы_2023.md",
     "base/alko/vine.md",
     "base/alko/vodka.md",
     "base/alko/Про_пиво_(Архив).md",
-    "inbox/Untitled.md",
     "base/alko/Mjolnir.md",
     "base/cinema_video/Посмотреть позже.md",
     "projects/player/Идеи_для_плеера.md",
