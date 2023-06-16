@@ -4,45 +4,64 @@
     "type": "split",
     "children": [
       {
-        "id": "c0cca12ab92893ae",
+        "id": "7d3736d31b754ea6",
         "type": "tabs",
         "children": [
           {
-            "id": "8d2a463d0d9e262a",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "base/alko/beer.canvas",
-                "viewState": {
-                  "x": -602.9270379973232,
-                  "y": -79.45572671871435,
-                  "zoom": -0.5000000000000003
-                }
-              }
-            }
-          },
-          {
-            "id": "8bfd929c2aa2ef3e",
+            "id": "56755c0d55fd345f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "base/alko/Пиво_База.md",
+                "file": "base/money/Инвест_идеи.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "0343c6bf26a9f121",
+            "id": "6598063b5b1803e8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "base/alko/Пивной_словарь.md",
+                "file": "base/money/Подбор_акций.md",
                 "mode": "source",
                 "source": true
+              }
+            }
+          },
+          {
+            "id": "df5d3ea4f37bf376",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "base/money/Где_мониторить_акции.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "93915ed2e1b75982",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "base/money/Во_что_я_вкладываюсь.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "23439249f98285d2",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "base/money/div-rating.png"
               }
             }
           }
@@ -97,8 +116,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 357.5,
-    "collapsed": true
+    "width": 357.5
   },
   "right": {
     "id": "d82091c632194a63",
@@ -114,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "base/alko/Пиво_База.md",
+                "file": "base/money/Подбор_акций.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "base/alko/Пиво_База.md",
+                "file": "base/money/Подбор_акций.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "base/alko/Пиво_База.md"
+                "file": "base/money/Подбор_акций.md"
               }
             }
           },
@@ -195,8 +213,15 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "8bfd929c2aa2ef3e",
+  "active": "6598063b5b1803e8",
   "lastOpenFiles": [
+    "base/money/Инвест_идеи.md",
+    "base/money/Где_мониторить_акции.md",
+    "base/money/Во_что_я_вкладываюсь.md",
+    "base/money/invest-modeling.md",
+    "base/money/div-rating.png",
+    "base/money/Подбор_акций.md",
+    "base/money/invest-500k.md",
     "base/alko/Пивной_словарь.md",
     "base/alko/Пиво_База.md",
     "base/alko/beer.canvas",
@@ -219,13 +244,7 @@
     "base/travel/Пора_валить.md",
     "base/lifestyle/what-to-do.md",
     "base/lifestyle/Добрый реаниматолог.md",
-    "base/lifestyle/less-time-killing.md",
     "base/lifestyle",
-    "base/travel/how-to-travel.md",
-    "base/mu/Музыка на фон.md",
-    "base/code/js/svelte/Вставка картинок из буффера.md",
-    "base/tools/Десигн_Мусор.md",
-    "base/mu/Гиги.md",
     "base/food",
     "base/code/testing",
     "base/money/portfolios.csv",
@@ -236,7 +255,6 @@
     "base/tools/mkdocs/mkdocs.png",
     "projects/Primal.canvas",
     "base/code/cdn.png",
-    "base/money/div-rating.png",
     "projects/Проекты.canvas",
     "projects/Думаем о великом.canvas",
     "projects/skvrd.canvas",
