@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c53a83410dac5675",
+        "id": "0b7c7a0e26d8d893",
         "type": "tabs",
         "children": [
           {
-            "id": "683af9b3698c6dc7",
+            "id": "023eb53c214aba52",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#celery",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +61,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -159,12 +160,26 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "683af9b3698c6dc7",
+  "active": "023eb53c214aba52",
   "lastOpenFiles": [
+    "projects/player/Музыкальные_идеи.canvas",
+    "base/music/Музыкальное_творчество.md",
+    "projects/potyk-io-v3/goty-2023.md",
+    "projects/На что потратить вечность.md",
+    "base/travel/100-mest-ekat.md",
+    "base/tools/mkdocs/Как_расширить_mkdocs.md",
+    "base/code/python/py-libs/helium.md",
+    "base/travel/ГастроФесты.md",
+    "inbox/Базы_знаний.md",
+    "inbox/Идеи_для_творчества.md",
+    "inbox/Рутина_в_начале_месяца.md",
+    "base/travel/Где_я_был.md",
+    "base/code/Кого_фолловить_в_Гитхабе.md",
+    "base/Идеи.md",
+    "base/alko/Mjolnir.md",
+    "inbox/Греча.md",
     "base/alko/Пиво_База.md",
     "base/alko/Пивной_словарь.md",
-    "inbox/Кого_фолловить_в_Гитхабе.md",
-    "inbox/Базы_знаний.md",
     "base/money/Подбор_акций.md",
     "base/money/Инвест_идеи.md",
     "base/money/Где_мониторить_акции.md",
@@ -175,22 +190,8 @@
     "base/alko/beer.canvas",
     "inbox/Untitled 1.md",
     "base/cinema_video/Фильмы_2023.md",
-    "base/alko/vine.md",
-    "base/alko/vodka.md",
-    "base/alko/Про_пиво_(Архив).md",
-    "base/alko/Mjolnir.md",
-    "base/cinema_video/Посмотреть позже.md",
-    "projects/player/Идеи_для_плеера.md",
-    "projects/potyk-io-v3/Выхораниэ и вот это все.md",
-    "base/tools/Диаграммы.md",
-    "base/Идеи.md",
-    "base/README.md",
     "base/thoughts",
-    "base/thoughts/Мысли про интернет.md",
     "base/cinema_video",
-    "base/travel/Пора_валить.md",
-    "base/lifestyle/what-to-do.md",
-    "base/lifestyle/Добрый реаниматолог.md",
     "base/lifestyle",
     "base/food",
     "base/code/testing",
@@ -215,7 +216,6 @@
     "base/code/ops/sc.png",
     "base/rel/Отношач ебучий.canvas",
     "Отношач ебучий.canvas",
-    "Думаем о великом.canvas",
-    "notes/Untitled.canvas"
+    "Думаем о великом.canvas"
   ]
 }

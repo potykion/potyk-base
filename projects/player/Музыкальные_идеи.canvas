@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"fe1a8061e27b565e","x":-190,"y":-260,"width":350,"height":139,"type":"text","text":"#music \n\n# Музыкальные идеи"},
+		{"id":"b1f09421ea55a36e","x":-496,"y":-24,"width":481,"height":104,"type":"text","text":"## Улучшить плейлист \"Грайндуха, бластбиты - все как надо\""},
+		{"id":"7011b56ad8b8c1be","x":-570,"y":196,"width":350,"height":84,"type":"text","text":"### Сделать Плеер и залить туда всю грайндуху"},
+		{"id":"fef62f88424f68b8","x":-97,"y":175,"width":477,"height":85,"color":"4","type":"text","text":"### ✅ Удалить лишние плейлисты и сделать грайдуху главным плейлистом"}
+	],
+	"edges":[
+		{"id":"b9be366070bccc9e","fromNode":"fe1a8061e27b565e","fromSide":"bottom","toNode":"b1f09421ea55a36e","toSide":"top"},
+		{"id":"b4c26b505d1a3503","fromNode":"b1f09421ea55a36e","fromSide":"bottom","toNode":"7011b56ad8b8c1be","toSide":"top"},
+		{"id":"1bd5054b8a52d3ce","fromNode":"b1f09421ea55a36e","fromSide":"bottom","toNode":"fef62f88424f68b8","toSide":"top"}
+	]
+}
