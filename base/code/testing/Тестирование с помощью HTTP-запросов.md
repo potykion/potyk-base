@@ -1,4 +1,4 @@
-#testing 
+#testing #idea-ide 
 
 # Тестирование с помощью HTTP-запросов
 

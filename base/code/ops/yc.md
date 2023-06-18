@@ -1,6 +1,7 @@
 ---
 tags:
   - ops
+  - yandex-cloud
 ---
 
 # Yandex Cloud

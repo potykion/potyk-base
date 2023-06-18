@@ -1,4 +1,4 @@
-#apps-script #тулзы 
+#apps-script #tools  
 
 # Apps Script
 

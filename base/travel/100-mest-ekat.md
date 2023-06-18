@@ -1,4 +1,4 @@
-#екат #100местгдепоесть
+#ekb #100mest
 
 # [100 мест, где поесть / 6 / Екат](https://www.youtube.com/watch?v=OV7zb58MJBU)
 

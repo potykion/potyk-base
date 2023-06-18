@@ -1,4 +1,4 @@
-#py #mkdocs #тулзы 
+#py #mkdocs #tools 
 
 # MkDocs
 

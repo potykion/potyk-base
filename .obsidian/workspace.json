@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "0b7c7a0e26d8d893",
+        "id": "411168457bf7f4af",
         "type": "tabs",
         "children": [
           {
-            "id": "023eb53c214aba52",
+            "id": "7c5a84e0f05dc27b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "base/travel/Тревел_Чеклист.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ocr",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,13 +65,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 357.5,
-    "collapsed": true
+    "width": 357.5
   },
   "right": {
     "id": "d82091c632194a63",
@@ -83,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "base/travel/Тревел_Чеклист.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "base/travel/Тревел_Чеклист.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "base/travel/Тревел_Чеклист.md"
+              }
             }
           },
           {
@@ -160,36 +166,72 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "023eb53c214aba52",
+  "floating": {
+    "id": "04d7c0fe6f2df199",
+    "type": "floating",
+    "children": [
+      {
+        "id": "d5f0ba371846a70f",
+        "type": "window",
+        "children": [
+          {
+            "id": "27ec0e86e5c40e09",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "9c2bac1d0896b17f",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": -154,
+        "y": -1427,
+        "width": 1024,
+        "height": 800,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "7c5a84e0f05dc27b",
   "lastOpenFiles": [
-    "projects/player/Музыкальные_идеи.canvas",
-    "base/music/Музыкальное_творчество.md",
-    "projects/potyk-io-v3/goty-2023.md",
-    "projects/На что потратить вечность.md",
-    "base/travel/100-mest-ekat.md",
-    "base/tools/mkdocs/Как_расширить_mkdocs.md",
-    "base/code/python/py-libs/helium.md",
-    "base/travel/ГастроФесты.md",
-    "inbox/Базы_знаний.md",
-    "inbox/Идеи_для_творчества.md",
-    "inbox/Рутина_в_начале_месяца.md",
-    "base/travel/Где_я_был.md",
+    "base/travel/Че_незя_в_самолет.md",
+    "base/travel/Тревел_Чеклист.md",
+    "base/code/ops/Тулзы_для_Yandex_Cloud.md",
+    "base/code/OCR.md",
+    "base/thoughts/Рутина_в_начале_месяца.md",
+    "base/findings/Базы_знаний.md",
+    "base/findings",
+    "base/thoughts/Идеи_для_творчества.md",
+    "base/travel/В_какой_терминал_ехать.md",
+    "inbox/Untitled.canvas",
+    "base/lifestyle/what-to-do.md",
     "base/code/Кого_фолловить_в_Гитхабе.md",
-    "base/Идеи.md",
-    "base/alko/Mjolnir.md",
-    "inbox/Греча.md",
-    "base/alko/Пиво_База.md",
-    "base/alko/Пивной_словарь.md",
-    "base/money/Подбор_акций.md",
-    "base/money/Инвест_идеи.md",
-    "base/money/Где_мониторить_акции.md",
-    "base/money/Во_что_я_вкладываюсь.md",
-    "base/money/invest-modeling.md",
+    "base/code/ops/yc.md",
+    "base/code/css/tailwind.md",
+    "projects/potyk-io-v3/Типичные задачи бекенд разраба.md",
+    "base/code/WebStorm_Freeze.md",
+    "projects/potyk-io-v3/goty-2023.md",
+    "projects/potyk-io-v3/Выхораниэ и вот это все.md",
+    "base/code/testing/Тестирование с помощью HTTP-запросов.md",
+    "base/code/js/JSDoc.md",
+    "base/code/js/js-typing.md",
+    "projects/potyk-io-v3/Статья_про_активности.md",
+    "projects/На что потратить вечность.md",
+    "base/tools/mkdocs/Mkdocs_Plugins.md",
+    "base/travel/Пора_валить.md",
+    "base/code/Мысли_про_репо.md",
+    "base/code/Загрузка файлов в CDN.md",
+    "base/code/python/py-libs/http.md",
+    "projects/player/Музыкальные_идеи.canvas",
     "base/money/div-rating.png",
-    "base/money/invest-500k.md",
     "base/alko/beer.canvas",
-    "inbox/Untitled 1.md",
-    "base/cinema_video/Фильмы_2023.md",
     "base/thoughts",
     "base/cinema_video",
     "base/lifestyle",
@@ -199,7 +241,6 @@
     "base/money/portfolios_backup.json",
     "base/money/portfolios.json",
     "base/money/snowball.ipynb.tmp",
-    "mkdocs.yml~",
     "base/tools/mkdocs/mkdocs.png",
     "projects/Primal.canvas",
     "base/code/cdn.png",
@@ -215,7 +256,6 @@
     "base/code/js/vue/FormKit.png",
     "base/code/ops/sc.png",
     "base/rel/Отношач ебучий.canvas",
-    "Отношач ебучий.canvas",
-    "Думаем о великом.canvas"
+    "Отношач ебучий.canvas"
   ]
 }

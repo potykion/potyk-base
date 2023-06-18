@@ -1,4 +1,4 @@
-#webstorm #idea
+#webstorm #idea-ide 
 
 # WebStorm тормозит 
 

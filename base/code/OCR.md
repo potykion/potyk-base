@@ -1,4 +1,4 @@
-#тулзы 
+#tools  
 
 # OCR
 
@@ -84,3 +84,5 @@ language=rus&filetype=jpg&url=https://skovoroda-static.storage.yandexcloud.net/i
 	- [Yandex Cloud Vision](https://cloud.yandex.ru/services/vision)
 - Еще популярный OCR - [Tesseract](https://github.com/tesseract-ocr/tessdoc)
 	- Для него есть куча оберток, напр. на [go](https://github.com/otiai10/gosseract)
+- https://github.com/PaddlePaddle/PaddleOCR
+- https://github.com/katanaml/sparrow

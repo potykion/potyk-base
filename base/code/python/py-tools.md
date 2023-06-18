@@ -1,4 +1,4 @@
-#py #тулзы #dev-тулзы 
+#py #tools  
 
 # Python Libs
 

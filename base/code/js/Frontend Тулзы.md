@@ -1,4 +1,4 @@
-#тулзы #frontend #js #dev-тулзы
+#tools  #frontend #js 
 
 # Frontend Тулзы
 

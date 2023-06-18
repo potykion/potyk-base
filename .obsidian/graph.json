@@ -1,6 +1,6 @@
 {
-  "collapse-filter": false,
-  "search": "music",
+  "collapse-filter": true,
+  "search": "",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -17,6 +17,6 @@
   "repelStrength": 10.1041666666667,
   "linkStrength": 1,
   "linkDistance": 326,
-  "scale": 0.39487308372050745,
-  "close": false
+  "scale": 0.48198745386564745,
+  "close": true
 }

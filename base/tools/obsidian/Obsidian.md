@@ -1,4 +1,4 @@
- #тулзы #обзор #obsidian 
+ #tools #review #obsidian 
 
 # Obsidian
 

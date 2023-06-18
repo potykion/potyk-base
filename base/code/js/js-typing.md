@@ -1,9 +1,4 @@
----
-tags:
-  - js
-hide:
-  - toc
----
+#js #ts 
 
 # Тайпинги в JS без TS
 

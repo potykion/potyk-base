@@ -1,3 +1,4 @@
+#yandex-cloud
 
 # Загрузка файлов в CDN / S3 / Object Storage
 

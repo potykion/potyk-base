@@ -1,4 +1,4 @@
-#dev-тулзы 
+#tools #yandex-cloud 
 
 # Тулзы для Yandex Cloud
 
