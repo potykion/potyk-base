@@ -1,9 +1,6 @@
----
-tags:
-  - ops
----
+#ops #docker
 
-# Как различать релизы Docker-имеджей?
+# Как различать релизы Docker-имеджей / образов?
 
 > Что за buster, bullseye, stretch, jessie?
 

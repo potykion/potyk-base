@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "411168457bf7f4af",
+        "id": "0c07d2c8a362b78c",
         "type": "tabs",
         "children": [
           {
-            "id": "7c5a84e0f05dc27b",
+            "id": "30f20f4f7e937a08",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "base/travel/Тревел_Чеклист.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ocr",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "base/travel/Тревел_Чеклист.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "base/travel/Тревел_Чеклист.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "base/travel/Тревел_Чеклист.md"
-              }
+              "state": {}
             }
           },
           {
@@ -146,7 +138,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -166,96 +158,63 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "floating": {
-    "id": "04d7c0fe6f2df199",
-    "type": "floating",
-    "children": [
-      {
-        "id": "d5f0ba371846a70f",
-        "type": "window",
-        "children": [
-          {
-            "id": "27ec0e86e5c40e09",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "9c2bac1d0896b17f",
-                "type": "leaf",
-                "state": {
-                  "type": "graph",
-                  "state": {}
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": -154,
-        "y": -1427,
-        "width": 1024,
-        "height": 800,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "7c5a84e0f05dc27b",
+  "active": "30f20f4f7e937a08",
   "lastOpenFiles": [
-    "base/travel/Че_незя_в_самолет.md",
-    "base/travel/Тревел_Чеклист.md",
-    "base/code/ops/Тулзы_для_Yandex_Cloud.md",
-    "base/code/OCR.md",
-    "base/thoughts/Рутина_в_начале_месяца.md",
-    "base/findings/Базы_знаний.md",
-    "base/findings",
-    "base/thoughts/Идеи_для_творчества.md",
-    "base/travel/В_какой_терминал_ехать.md",
+    "base/lifestyle/rel/sex.png",
+    "base/lifestyle/rel/rel.md",
+    "base/fun/music/tools.md",
+    "base/fun/music/sc.jpg",
+    "base/fun/music/noize.jpg",
+    "base/fun/music/nd.jpg",
+    "base/fun/music/index.md",
+    "base/fun/music/experimental-electronic-nonbinary.webp",
+    "base/fun/music/dnb.jpg",
+    "base/fun/music/albums/xibalba.jfif",
+    "base/fun/music/albums/weekend-nachos.jfif",
+    "base/fun/music/albums/weedeater.jfif",
+    "base/fun/music/albums/varials.jfif",
+    "base/fun/music/albums/uniform.jfif",
+    "base/fun/music/albums/tsygun.jfif",
+    "base/fun/music/albums/the-body-and-thou.png",
+    "base/fun/music/albums/super-unison.jfif",
+    "base/fun/music/albums/primitive-man.jfif",
+    "base/fun/music/albums/rotten-sound.jpg",
+    "base/fun/music/albums/pig-destroyer.jfif",
+    "base/fun/music/albums/nasum.jfif",
+    "base/fun/music/albums/godflesh.jpg",
+    "base/fun/music/albums/fistula.jpg",
+    "base/fun/music/albums/index.md",
+    "base/fun/music/albums/crowbar.jpg",
+    "base/fun/music/Топ_DNB.md",
+    "base/fun/music/Гиги.md",
+    "base/fun/music/Музыкальное_творчество.md",
+    "base/fun/music/Музыка на фон.md",
+    "base/fun/music/Моя_волна.md",
+    "base/fun/games/Во что поиграть.md",
+    "base/fun/games/ps-hack.md",
+    "base/fun/games/Fallout_New_Vegas_Extended.md",
+    "base/fun/porn/index.md",
+    "base/tools/postman/index.md",
+    "base/home/rent/index.md",
+    "base/travel_and_outdoor/spb.md",
+    "base/travel_and_outdoor/how-to-travel.md",
+    "base/travel_and_outdoor/plans/ekat-ymaps.md",
+    "base/travel_and_outdoor/plans/ekat.md",
+    "base/travel_and_outdoor/plans/nizhniy.md",
+    "base/travel_and_outdoor/plans/min-vody.md",
+    "base/tools/vpn/index.md",
+    "base/travel_and_outdoor/msk/subway/subway.md",
+    "base/home/wheretolive/slavik/slavik.md",
+    "base/travel_and_outdoor/msk/msk-where-to-eat.md",
     "inbox/Untitled.canvas",
-    "base/lifestyle/what-to-do.md",
-    "base/code/Кого_фолловить_в_Гитхабе.md",
-    "base/code/ops/yc.md",
-    "base/code/css/tailwind.md",
-    "projects/potyk-io-v3/Типичные задачи бекенд разраба.md",
-    "base/code/WebStorm_Freeze.md",
-    "projects/potyk-io-v3/goty-2023.md",
-    "projects/potyk-io-v3/Выхораниэ и вот это все.md",
-    "base/code/testing/Тестирование с помощью HTTP-запросов.md",
-    "base/code/js/JSDoc.md",
-    "base/code/js/js-typing.md",
-    "projects/potyk-io-v3/Статья_про_активности.md",
-    "projects/На что потратить вечность.md",
-    "base/tools/mkdocs/Mkdocs_Plugins.md",
-    "base/travel/Пора_валить.md",
-    "base/code/Мысли_про_репо.md",
-    "base/code/Загрузка файлов в CDN.md",
-    "base/code/python/py-libs/http.md",
     "projects/player/Музыкальные_идеи.canvas",
-    "base/money/div-rating.png",
     "base/alko/beer.canvas",
-    "base/thoughts",
-    "base/cinema_video",
-    "base/lifestyle",
-    "base/food",
-    "base/code/testing",
-    "base/money/portfolios.csv",
-    "base/money/portfolios_backup.json",
-    "base/money/portfolios.json",
-    "base/money/snowball.ipynb.tmp",
-    "base/tools/mkdocs/mkdocs.png",
     "projects/Primal.canvas",
-    "base/code/cdn.png",
     "projects/Проекты.canvas",
     "projects/Думаем о великом.canvas",
     "projects/skvrd.canvas",
     "projects/potyk-io-v3/potyk-io.canvas",
-    "base/code/js/compressorjs.png",
-    "base/code/css/tailwind-between.png",
-    "base/code/python/Subprocess.png",
-    "base/code/js/apps-script/apps-script.jpeg",
-    "base/code/js/apps-script/clean-gmail.jpeg",
-    "base/code/js/vue/FormKit.png",
-    "base/code/ops/sc.png",
-    "base/rel/Отношач ебучий.canvas",
+    "base/lifestyle/rel/Отношач ебучий.canvas",
     "Отношач ебучий.canvas"
   ]
 }
