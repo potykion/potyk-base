@@ -8,5 +8,8 @@ plugins:
   - tags:
       tags_file: README.md
 
+
 markdown_extensions:
   - pymdownx.magiclink
+  - pymdownx.tasklist:
+      custom_checkbox: true
