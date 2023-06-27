@@ -4,31 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "116d03b6d92eaed9",
+        "id": "806fb0847a2ec5dc",
         "type": "tabs",
         "children": [
           {
-            "id": "e6120f8265466d56",
+            "id": "30d7c098f62f1b95",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "base/travel_and_outdoor/Тревел_Чеклист.md",
+                "file": "base/alko/Материалы_про_пиво.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "420eb15d21b64654",
+            "id": "6fd4741fe946c463",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "base/alko/Пивной_словарь.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -95,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "base/alko/Материалы_про_пиво.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "base/alko/Материалы_про_пиво.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "base/alko/Материалы_про_пиво.md"
+              }
             }
           },
           {
@@ -172,9 +179,29 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "a389d9c4ea450095",
+  "active": "30d7c098f62f1b95",
   "lastOpenFiles": [
+    "base/files/books/Гирек_Обер_-_Пиво_Руководство_для_ценителей_-_2018.pdf",
+    "base/files/books",
+    "base/potyk-weekly/2023-06-27.md",
+    "base/potyk-weekly/16 - 2023-06-27.md",
+    "base/files/chech.jpg",
+    "base/alko/Пивной_словарь.md",
+    "base/alko/Материалы_про_пиво.md",
+    "base/files/mkdocs.jpeg",
+    "base/files/zalupa.jpeg",
+    "base/files/titanic.jpeg",
+    "base/files/perevorot.jpg",
+    "base/files/k8s.mp4",
+    "base/files/Gusling.mp4",
+    "base/files",
+    "base/potyk-weekly",
+    "base/alko/Пиво_База.md",
+    "base/books/files/Гирек_Обер_-_Пиво_Руководство_для_ценителей_-_2018.pdf",
+    "base/books/Биохакинк без фанатизма.md",
     "base/travel_and_outdoor/Тревел_Чеклист.md",
+    "base/code/js/svelte/Svelte_Cheatsheet.md",
+    "base/books/files",
     "base/code/Видосы_для_разрабов.md",
     "base/cinema_video/Посмотреть позже.md",
     "base/code/ops/yc.md",
@@ -187,21 +214,9 @@
     "base/fun/music/nd.jpg",
     "base/fun/music/index.md",
     "base/fun/music/experimental-electronic-nonbinary.webp",
-    "base/fun/music/dnb.jpg",
     "base/fun/music/albums/xibalba.jfif",
     "base/fun/music/albums/weekend-nachos.jfif",
     "base/fun/music/albums/weedeater.jfif",
-    "base/fun/music/albums/varials.jfif",
-    "base/fun/music/albums/uniform.jfif",
-    "base/fun/music/albums/tsygun.jfif",
-    "base/fun/music/albums/the-body-and-thou.png",
-    "base/fun/music/albums/super-unison.jfif",
-    "base/fun/music/albums/primitive-man.jfif",
-    "base/fun/music/albums/rotten-sound.jpg",
-    "base/fun/music/albums/pig-destroyer.jfif",
-    "base/fun/music/albums/nasum.jfif",
-    "base/fun/music/albums/godflesh.jpg",
-    "base/fun/music/albums/fistula.jpg",
     "base/fun/music/albums/index.md",
     "base/fun/music/Топ_DNB.md",
     "base/fun/music/Гиги.md",
@@ -212,14 +227,6 @@
     "base/fun/games/ps-hack.md",
     "base/fun/games/Fallout_New_Vegas_Extended.md",
     "base/fun/porn/index.md",
-    "base/tools/postman/index.md",
-    "base/home/rent/index.md",
-    "base/travel_and_outdoor/spb.md",
-    "base/travel_and_outdoor/how-to-travel.md",
-    "base/travel_and_outdoor/plans/ekat-ymaps.md",
-    "base/travel_and_outdoor/plans/ekat.md",
-    "base/travel_and_outdoor/plans/nizhniy.md",
-    "base/travel_and_outdoor/plans/min-vody.md",
     "inbox/Untitled.canvas",
     "projects/player/Музыкальные_идеи.canvas",
     "base/alko/beer.canvas",
