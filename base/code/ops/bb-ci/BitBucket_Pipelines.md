@@ -205,7 +205,7 @@ definitions:
 
 ### Деплой на YC Serverless Containers
 
-На базе [деплоя через yc](yc.md)
+На базе [деплоя через yc](../yc.md)
 
 ```yaml
 definitions:

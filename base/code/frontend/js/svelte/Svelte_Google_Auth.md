@@ -3,7 +3,7 @@
 # Svelte Google Auth
 
 - **Ставим либу**: https://github.com/beyonk-adventures/svelte-social-auth
-- **Получаем google client id**: как получить - написано в [js-g-auth](js-g-auth.md)
+- **Получаем google client id**: как получить - написано в [js-g-auth](../js-g-auth.md)
 - **Делаем виджет**:
 
 ```html

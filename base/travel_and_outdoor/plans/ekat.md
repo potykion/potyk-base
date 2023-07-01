@@ -85,4 +85,4 @@
 
 ## Источники
 
-- [100-mest-ekat](100-mest-ekat.md)
+- [100-mest-ekat](../100-mest-gde-poest/100-mest-ekat.md)

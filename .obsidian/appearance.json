@@ -1,9 +1,8 @@
 {
-  "accentColor": "",
+  "accentColor": "#8b6cef",
   "theme": "system",
   "translucency": false,
   "baseFontSize": 15,
-  "enabledCssSnippets": [
-    "media-grid-snippet"
-  ]
+  "enabledCssSnippets": [],
+  "cssTheme": "Minimal"
 }
