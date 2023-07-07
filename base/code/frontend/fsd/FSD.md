@@ -2,10 +2,12 @@
 
 # FSD
 
-- https://feature-sliced.design/ru/
+- FSD = Feature Sliced Design = https://feature-sliced.design/ru/
 	- https://feature-sliced.design/ru/docs/get-started/overview
 	- https://feature-sliced.design/ru/docs/get-started/tutorial
-- Atomic Design на максималках с адаптацией под фронт
+	- https://feature-sliced.design/ru/docs/guides
+	- [ ] https://feature-sliced.design/ru/docs/reference
+- FSD = Frontend Architecture = Atomic Design + DDD 
 
 ![](fsd.png)
 
@@ -50,3 +52,12 @@
 - `ui`
 - `model`
 - `api`
+
+## FAQ
+
+### Формочки - это куда???
+
+>Слайс на этом слое может содержать _интерактивные_ элементы пользовательского интерфейса, внутреннее состояние и запросы к API, которые позволяют выполнять действия, создающие ценность.
+
+Исходя из этого, формы - это фича
+Но но мб это сущность? 

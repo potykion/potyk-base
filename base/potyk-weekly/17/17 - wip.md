@@ -14,4 +14,4 @@
 
 - 🔎 [@arnika_sky](https://twitter.com/arnika_sky) - нормальные посты про девопс: [сборка не через docker, а через dager](https://docs.dagger.io/205271/replace-dockerfile/), [как выбрать бд](db.jpeg)
 - 🔎 [@jarqynjaqta](https://twitter.com/jarqynjaqta) - [@soren_iverson](https://twitter.com/soren_iverson) по-русски - челы придумывают приколькые дизайн фичи для существующих аппликов, напр. ["Заказать машину для ночлега в Яндекс Go"](https://twitter.com/jarqynjaqta/status/1674307201291173890)
-- 🔎[DragGAN](https://twitter.com/minchoi/status/1674066306964901888) - будущее порнухи [представили?](./drag-gan.mp4)
+- 🔎[DragGAN](https://twitter.com/minchoi/status/1674066306964901888) - будущее порнухи [представили?](drag-gan.mp4)

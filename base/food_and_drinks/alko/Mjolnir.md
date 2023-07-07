@@ -15,4 +15,4 @@
 
 - Основатель медоварни делает [канал на ютубе про бизнесы и медовухи](https://www.youtube.com/@user-yb4xr6uc6f/featured)
 	- В частности есть [видос как делать медовуху](https://www.youtube.com/watch?v=V9N35ttYWxY)
-- Они же проводят фест [Греча](../travel_and_outdoor/ГастроФесты.md)
+- Они же проводят фест [Греча](../../travel_and_outdoor/ГастроФесты.md)
