@@ -1,0 +1,34 @@
+{
+	"nodes":[
+		{"id":"c5bf24004f3f148f","x":-3,"y":-142,"width":250,"height":60,"type":"text","text":"Собрались готовить том ям "},
+		{"id":"700755888edf901b","x":368,"y":-137,"width":252,"height":137,"type":"text","text":"Внезапно Мила захотела все переиначить и обжарить креветки, хотя так никто не делает "},
+		{"id":"4565bc26eeb39490","x":749,"y":-159,"width":250,"height":60,"type":"text","text":"Настоял на своем "},
+		{"id":"aa70e5845cd98551","x":1166,"y":-134,"width":250,"height":60,"type":"text","text":"Миле это не понравилось "},
+		{"id":"5d26c63f5e949963","x":1430,"y":-41,"width":270,"height":101,"type":"text","text":"Получился норм том ям\nЯ словил печальку \nМиле стыдно "},
+		{"id":"2e295dcff2a0a9ed","x":411,"y":148,"width":250,"height":60,"type":"text","text":"(если бы) Прогнулся "},
+		{"id":"756d016cfd5e0b8a","x":263,"y":385,"width":231,"height":95,"type":"text","text":"Том Ям получился \nМила довольна\nЯ в печали"},
+		{"id":"c0bca0ae3b8174ba","x":536,"y":385,"width":264,"height":95,"type":"text","text":"Том Ям не получился \nМила недовольна \nЯ недоволен "},
+		{"id":"da28c5927d8cd8cf","x":1141,"y":50,"width":275,"height":110,"type":"text","text":"Том Ям не получился\nМила недовольна \nЯ в печали "},
+		{"id":"faf1114613c5a72f","x":-121,"y":60,"width":250,"height":60,"type":"text","text":"Делать по плану "},
+		{"id":"29aace46c63967cf","x":-285,"y":253,"width":289,"height":107,"type":"text","text":"Том Ям не получился\nМила слегка недовольна\nМне похуй"},
+		{"id":"24f22d1c134c5a34","x":-3,"y":450,"width":250,"height":60,"type":"text","text":"Том Ям получился\nВсе довольны"},
+		{"id":"c07a58dccc47853d","x":733,"y":65,"width":250,"height":60,"type":"text","text":"Просто слиться "},
+		{"id":"6b481f107f988b7b","x":848,"y":231,"width":232,"height":154,"type":"text","text":"Мила недовольна\nЯ недоволен \nТом Ям хз вообще принотовлен ли"},
+		{"id":"e3ad1a76164e0f47","x":368,"y":-440,"width":295,"height":176,"type":"text","text":"# Выводы\nЕсли бы все было по плану, то все было бы норм\nИначе я в любом случае недовольны "}
+	],
+	"edges":[
+		{"id":"974dfa923a39d463","fromNode":"c5bf24004f3f148f","fromSide":"right","toNode":"700755888edf901b","toSide":"left"},
+		{"id":"3efd582cb9a1ed1e","fromNode":"700755888edf901b","fromSide":"right","toNode":"4565bc26eeb39490","toSide":"left"},
+		{"id":"3bdedabdf8268d60","fromNode":"4565bc26eeb39490","fromSide":"right","toNode":"aa70e5845cd98551","toSide":"left"},
+		{"id":"3b57b2b31154ab8e","fromNode":"aa70e5845cd98551","fromSide":"right","toNode":"5d26c63f5e949963","toSide":"top"},
+		{"id":"e83ddc737ece6532","fromNode":"700755888edf901b","fromSide":"bottom","toNode":"2e295dcff2a0a9ed","toSide":"top"},
+		{"id":"76532c3abf6947da","fromNode":"2e295dcff2a0a9ed","fromSide":"bottom","toNode":"756d016cfd5e0b8a","toSide":"top"},
+		{"id":"83a72f427cb6aefc","fromNode":"2e295dcff2a0a9ed","fromSide":"bottom","toNode":"c0bca0ae3b8174ba","toSide":"top"},
+		{"id":"2cdcdf661b599fa0","fromNode":"aa70e5845cd98551","fromSide":"bottom","toNode":"da28c5927d8cd8cf","toSide":"top"},
+		{"id":"cbb4b8059a2c5f00","fromNode":"c5bf24004f3f148f","fromSide":"bottom","toNode":"faf1114613c5a72f","toSide":"top"},
+		{"id":"5bbec71eeabbb5fa","fromNode":"faf1114613c5a72f","fromSide":"bottom","toNode":"29aace46c63967cf","toSide":"top"},
+		{"id":"d26f0b9892ec024c","fromNode":"faf1114613c5a72f","fromSide":"bottom","toNode":"24f22d1c134c5a34","toSide":"top"},
+		{"id":"6a8f419df6442e4d","fromNode":"700755888edf901b","fromSide":"bottom","toNode":"c07a58dccc47853d","toSide":"top"},
+		{"id":"bf924b1c5a39b1a5","fromNode":"c07a58dccc47853d","fromSide":"bottom","toNode":"6b481f107f988b7b","toSide":"top"}
+	]
+}
