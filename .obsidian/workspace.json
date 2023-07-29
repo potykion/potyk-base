@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "87a15ca8d793d682",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "base/potyk-weekly/19/19.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "294256d973e2ce31",
             "type": "leaf",
             "state": {
@@ -30,8 +18,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "1feff17421419a5d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "base/potyk-weekly/20/20-2023-07-25.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "base/potyk-weekly/19/19.md",
+                "file": "base/potyk-weekly/20/20-2023-07-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "base/potyk-weekly/19/19.md",
+                "file": "base/potyk-weekly/20/20-2023-07-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "base/potyk-weekly/19/19.md"
+                "file": "base/potyk-weekly/20/20-2023-07-25.md"
               }
             }
           },
@@ -178,11 +179,15 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "87a15ca8d793d682",
+  "active": "1feff17421419a5d",
   "lastOpenFiles": [
-    "base/potyk-weekly/19/fear.jpg",
     "base/potyk-weekly/18/18.md",
+    "base/potyk-weekly/20/20-2023-07-25.md",
     "base/potyk-weekly/19/19.md",
+    "base/potyk-weekly/20",
+    "projects/potyk-io-v3/goty-2023.md",
+    "inbox/Swagger.md",
+    "base/potyk-weekly/19/fear.jpg",
     "base/potyk-weekly/19",
     "base/work/Бинго_хуевой_работы.md",
     "base/work",
@@ -217,8 +222,6 @@
     "base/inspiration/top-design.md",
     "base/money/Поток.md",
     "base/money/Доходность_недвиги.md",
-    "base/food/alko/Средства от похмелья.md",
-    "base/food/alko/Про_пиво_(Архив).md",
     "base/food/alko/vine2.jpg",
     "base/food/alko/vine1.jpg",
     "base/food/alko/Pasted image 20230628182135.png",
@@ -227,8 +230,6 @@
     "inbox/prorab.jpg",
     "base/potyk-weekly/17/drag-gan.mp4",
     "base/alko/beer.canvas",
-    "base/code/frontend/fsd",
-    "base/code/frontend/fsd/fsd-twitter.png",
     "inbox/Untitled.canvas",
     "projects/player/Музыкальные_идеи.canvas",
     "projects/Primal.canvas",
