@@ -1,8 +1,8 @@
 {
-  "accentColor": "#8b6cef",
-  "theme": "system",
+  "accentColor": "",
+  "theme": "moonstone",
   "translucency": false,
-  "baseFontSize": 15,
+  "baseFontSize": 10,
   "enabledCssSnippets": [],
   "cssTheme": "Minimal"
 }

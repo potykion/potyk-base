@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "d7a2050b0da0a7e1",
+        "id": "b319ff8065184254",
         "type": "tabs",
         "children": [
           {
-            "id": "a300c5a47b40345b",
+            "id": "1ca9408e09ceb620",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "base/potyk-weekly/21/21.md",
+                "file": "inbox/twi-mechanics.md",
                 "mode": "source",
                 "source": true
-              },
-              "pinned": true
+              }
             }
           }
         ]
@@ -50,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "идеи",
+                "query": "tag:#tools",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -71,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 360.5
   },
   "right": {
     "id": "d82091c632194a63",
@@ -87,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "base/potyk-weekly/21/21.md",
+                "file": "inbox/twi-mechanics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "base/potyk-weekly/21/21.md",
+                "file": "inbox/twi-mechanics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "base/potyk-weekly/21/21.md"
+                "file": "inbox/twi-mechanics.md"
               }
             }
           },
@@ -148,7 +146,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -168,56 +166,56 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "a300c5a47b40345b",
+  "active": "1ca9408e09ceb620",
   "lastOpenFiles": [
-    "base/books/Что почитать.md",
+    "base/money/backup/2/portfolios.csv",
+    "base/money/backup/2/portfolios.json",
+    "base/money/backup/1/portfolios.json",
+    "base/money/backup/1/portfolios.csv",
+    "base/money/backup/2",
+    "base/money/backup/1",
+    "base/money/backup/portfolios.json",
+    "base/money/backup/portfolios.csv",
+    "base/money/backup",
+    "base/money/snowball.ipynb.tmp",
+    "inbox/twi-mechanics.md",
+    "inbox/Армения_Орел_И_Решка.md",
+    "inbox/Армения_План.md",
+    "inbox/Армения.md",
+    "Untitled",
+    "inbox/Swagger.md",
+    "inbox/Каналы_про_еду.md",
+    "inbox/Тг-каналы с девочками.md",
+    "base/potyk-weekly/22/22.md",
+    "base/potyk-weekly/22/photo_2023-08-08_17-11-54 (2).jpg",
+    "base/potyk-weekly/22/photo_2023-08-08_17-11-54.jpg",
+    "base/potyk-weekly/22/Pasted image 20230808155606.png",
     "base/potyk-weekly/21/21.md",
+    "base/potyk-weekly/21/Pasted image 20230731180841.png",
+    "base/potyk-weekly/21/Снимок экрана 2023-08-01 175127.png",
+    "base/potyk-weekly/21/1401_1337004.jpg",
+    "base/potyk-weekly/21/photo_2023-08-01_17-47-09.jpg",
+    "base/potyk-weekly/21/Pasted image 20230731180520.png",
+    "base/potyk-weekly/21/pic.jpg",
+    "base/code/python/mypy-lib.md",
+    "base/code/python/mypy-self.md",
+    "base/code/python/syrupy.md",
+    "base/code/python/python-sucks.md",
+    "base/code/python/py-tools.md",
+    "base/books/Что почитать.md",
     "projects/uff/Идеи.md",
     "base/books/Лягушка, слон и брокколи.md",
-    "projects/uff",
     "base/potyk-weekly/19/19.md",
-    "base/potyk-weekly/21",
-    "inbox/Swagger.md",
     "base/potyk-weekly/20/20-2023-07-25.md",
-    "base/potyk-weekly/20",
     "base/potyk-weekly/19/fear.jpg",
     "base/potyk-weekly/18/18.md",
-    "base/potyk-weekly/19",
     "base/work/Бинго_хуевой_работы.md",
-    "base/work",
-    "base/potyk-weekly/18/1klas.png",
     "base/food_and_drinks/Подача_блюд.md",
-    "base/potyk-weekly/18",
     "base/home/Ремонт.md",
-    "base/home/prorab.jpg",
     "base/lifestyle/Привычки.md",
     "base/food_and_drinks/Кофе_как_описывать.md",
-    "base/lifestyle/Интересы.md",
-    "base/food_and_drinks/cooking/Жарка.md",
-    "base/food_and_drinks/alko/Про_пиво_(Архив).md",
-    "base/food_and_drinks/alko/Средства от похмелья.md",
-    "base/food_and_drinks/alko/Материалы_про_пиво.md",
-    "base/food_and_drinks/alko/Пивной_словарь.md",
-    "base/food_and_drinks/alko/Пиво_База.md",
-    "base/food_and_drinks/alko/vodka.md",
-    "base/food_and_drinks/alko/vine2.jpg",
-    "base/food_and_drinks/alko/vine1.jpg",
-    "base/food_and_drinks/alko/vine.md",
-    "base/food_and_drinks/alko/Pasted image 20230628182135.png",
-    "base/food_and_drinks/alko/Mjolnir.md",
     "base/food_and_drinks/alko/beer.canvas",
-    "base/food_and_drinks/Сыр.md",
-    "base/food_and_drinks/Стейки.md",
-    "base/food_and_drinks/how-to-cheese.md",
-    "base/food_and_drinks/cooking",
-    "base/food_and_drinks/alko",
-    "base/food_and_drinks",
-    "base/food/cooking",
-    "base/food/alko/vine2.jpg",
-    "base/food/alko/vine1.jpg",
-    "base/food/alko/Pasted image 20230628182135.png",
     "base/food/alko/beer.canvas",
-    "inbox/prorab.jpg",
     "base/alko/beer.canvas",
     "inbox/Untitled.canvas",
     "projects/player/Музыкальные_идеи.canvas",

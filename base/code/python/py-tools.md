@@ -16,6 +16,7 @@
 
 ## QA / Lint
 
+- [qodana](https://www.jetbrains.com/ru-ru/qodana/) - линтер от JetBrains - по сути те же проверки ide, но можно запускать на CI и на локалке с красивыми репортами
 - [Ruff](https://github.com/charliermarsh/ruff) - оч быстрый линтер
 	- быстрее flake8 и уж тем более pylint
 - [mypy](https://mypy-lang.org/) - чекер тайпингов
@@ -24,4 +25,5 @@
 	- так что внедрять его надо либо со старта, либо очень урезанно, либо вообще не внедрять
 - [black](https://github.com/psf/black) - хороший форматтер кода
 	- есть [плагины для IDE](https://black.readthedocs.io/en/stable/integrations/editors.html)
+	- Начиная с версии 2023.2, в PyCharm нативная интеграция с Black
 

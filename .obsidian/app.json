@@ -1,9 +1,6 @@
 {
   "spellcheck": true,
-  "spellcheckLanguages": [
-    "en-US",
-    "ru"
-  ],
+  "spellcheckLanguages": null,
   "readableLineLength": true,
   "promptDelete": false,
   "showLineNumber": true,

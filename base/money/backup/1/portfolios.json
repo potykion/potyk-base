@@ -1,0 +1,678 @@
+[
+  {
+    "shares": {
+      "TATNP.MCX": 49,
+      "LSNGP.MCX": 18,
+      "NVTK.MCX": 2,
+      "STSBP.MCX": 16,
+      "BANE.MCX": 8,
+      "SIBN.MCX": 7
+    },
+    "profit": 59
+  },
+  {
+    "shares": {
+      "MSRS.MCX": 29,
+      "IRAO.MCX": 22,
+      "KAZTP.MCX": 30,
+      "TATNP.MCX": 19
+    },
+    "profit": 127
+  },
+  {
+    "shares": {
+      "KRSBP.MCX": 20,
+      "MRKC.MCX": 49,
+      "IRAO.MCX": 11,
+      "MSRS.MCX": 3,
+      "SNGS.MCX": 6,
+      "ROSN.MCX": 9,
+      "TATNP.MCX": 1,
+      "LSNGP.MCX": 1
+    },
+    "profit": 49
+  },
+  {
+    "shares": {
+      "ROSN.MCX": 28,
+      "MSRS.MCX": 16,
+      "TTLK.MCX": 12,
+      "STSBP.MCX": 34,
+      "SIBN.MCX": 2,
+      "BANE.MCX": 7,
+      "RTKM.MCX": 1
+    },
+    "profit": 242
+  },
+  {
+    "shares": {
+      "MDMG.MCX": 24,
+      "KRSBP.MCX": 12,
+      "SIBN.MCX": 45,
+      "STSBP.MCX": 14,
+      "ROSN.MCX": 5
+    },
+    "profit": 166
+  },
+  {
+    "shares": {
+      "IRAO.MCX": 4,
+      "LSNGP.MCX": 22,
+      "SNGS.MCX": 30,
+      "MSRS.MCX": 32,
+      "LKOH.MCX": 1,
+      "STSBP.MCX": 11
+    },
+    "profit": 77
+  },
+  {
+    "shares": {
+      "SNGS.MCX": 1,
+      "ROSN.MCX": 9,
+      "LKOH.MCX": 13,
+      "IRAO.MCX": 26,
+      "KAZTP.MCX": 8,
+      "KRSBP.MCX": 40,
+      "MSRS.MCX": 1,
+      "NVTK.MCX": 1,
+      "LSNGP.MCX": 1
+    },
+    "profit": 102
+  },
+  {
+    "shares": {
+      "SIBN.MCX": 45,
+      "IRAO.MCX": 25,
+      "LSNGP.MCX": 6,
+      "KRSBP.MCX": 17,
+      "LKOH.MCX": 4,
+      "MDMG.MCX": 3
+    },
+    "profit": 78
+  },
+  {
+    "shares": {
+      "NVTK.MCX": 35,
+      "SIBN.MCX": 26,
+      "TTLK.MCX": 22,
+      "RTKM.MCX": 15,
+      "TATNP.MCX": 2
+    },
+    "profit": 60
+  },
+  {
+    "shares": {
+      "BANE.MCX": 33,
+      "MSRS.MCX": 35,
+      "MDMG.MCX": 8,
+      "STSBP.MCX": 22,
+      "SIBN.MCX": 1,
+      "IRAO.MCX": 1
+    },
+    "profit": 154
+  },
+  {
+    "shares": {
+      "MSRS.MCX": 8,
+      "KRSBP.MCX": 22,
+      "STSBP.MCX": 28,
+      "MDMG.MCX": 23,
+      "TTLK.MCX": 16,
+      "SNGS.MCX": 1,
+      "LSNGP.MCX": 1,
+      "MRKC.MCX": 1
+    },
+    "profit": 245
+  },
+  {
+    "shares": {
+      "RTKM.MCX": 44,
+      "MRKC.MCX": 38,
+      "KRSBP.MCX": 18
+    },
+    "profit": 34
+  },
+  {
+    "shares": {
+      "RTKM.MCX": 16,
+      "BANE.MCX": 34,
+      "SIBN.MCX": 19,
+      "IRAO.MCX": 26,
+      "NVTK.MCX": 4,
+      "TTLK.MCX": 1
+    },
+    "profit": 26
+  },
+  {
+    "shares": {
+      "MSRS.MCX": 32,
+      "SNGS.MCX": 42,
+      "IRAO.MCX": 6,
+      "LSNGP.MCX": 1,
+      "BANE.MCX": 11,
+      "RTKM.MCX": 1,
+      "ROSN.MCX": 5,
+      "TTLK.MCX": 1,
+      "TATNP.MCX": 1
+    },
+    "profit": -6
+  },
+  {
+    "shares": {
+      "MDMG.MCX": 23,
+      "IRAO.MCX": 16,
+      "LKOH.MCX": 47,
+      "BANE.MCX": 9,
+      "RTKM.MCX": 3,
+      "KRSBP.MCX": 1,
+      "MSRS.MCX": 1
+    },
+    "profit": 28
+  },
+  {
+    "shares": {
+      "SNGS.MCX": 37,
+      "MDMG.MCX": 11,
+      "LKOH.MCX": 27,
+      "SIBN.MCX": 20,
+      "LSNGP.MCX": 1,
+      "ROSN.MCX": 4
+    },
+    "profit": 26
+  },
+  {
+    "shares": {
+      "IRAO.MCX": 23,
+      "KAZTP.MCX": 42,
+      "SIBN.MCX": 23,
+      "KRSBP.MCX": 3,
+      "NVTK.MCX": 8,
+      "LKOH.MCX": 1
+    },
+    "profit": 204
+  },
+  {
+    "shares": {
+      "RTKM.MCX": 50,
+      "SIBN.MCX": 15,
+      "LSNGP.MCX": 12,
+      "NVTK.MCX": 11,
+      "MSRS.MCX": 5,
+      "ROSN.MCX": 7
+    },
+    "profit": 18
+  },
+  {
+    "shares": {
+      "KAZTP.MCX": 50,
+      "MRKC.MCX": 26,
+      "SNGS.MCX": 17,
+      "RTKM.MCX": 3,
+      "IRAO.MCX": 2,
+      "TATNP.MCX": 2
+    },
+    "profit": 212
+  },
+  {
+    "shares": {
+      "MDMG.MCX": 34,
+      "BANE.MCX": 14,
+      "STSBP.MCX": 42,
+      "NVTK.MCX": 4,
+      "IRAO.MCX": 5,
+      "SIBN.MCX": 1
+    },
+    "profit": 289
+  },
+  {
+    "shares": {
+      "MSRS.MCX": 14,
+      "LKOH.MCX": 42,
+      "MDMG.MCX": 27,
+      "TATNP.MCX": 11,
+      "SNGS.MCX": 1,
+      "IRAO.MCX": 4,
+      "TTLK.MCX": 1
+    },
+    "profit": 29
+  },
+  {
+    "shares": {
+      "MDMG.MCX": 37,
+      "SNGS.MCX": 27,
+      "ROSN.MCX": 12,
+      "LKOH.MCX": 4,
+      "TTLK.MCX": 12,
+      "MRKC.MCX": 2,
+      "STSBP.MCX": 3,
+      "KAZTP.MCX": 3
+    },
+    "profit": 59
+  },
+  {
+    "shares": {
+      "IRAO.MCX": 43,
+      "MSRS.MCX": 23,
+      "LKOH.MCX": 17,
+      "TATNP.MCX": 17
+    },
+    "profit": 5
+  },
+  {
+    "shares": {
+      "LKOH.MCX": 33,
+      "SIBN.MCX": 24,
+      "TATNP.MCX": 16,
+      "KRSBP.MCX": 18,
+      "MSRS.MCX": 4,
+      "MDMG.MCX": 2,
+      "STSBP.MCX": 2,
+      "MRKC.MCX": 1
+    },
+    "profit": 83
+  },
+  {
+    "shares": {
+      "TATNP.MCX": 19,
+      "MRKC.MCX": 14,
+      "STSBP.MCX": 12,
+      "SIBN.MCX": 11,
+      "IRAO.MCX": 18,
+      "MDMG.MCX": 6,
+      "KRSBP.MCX": 3,
+      "ROSN.MCX": 17
+    },
+    "profit": 106
+  },
+  {
+    "shares": {
+      "ROSN.MCX": 41,
+      "BANE.MCX": 8,
+      "TTLK.MCX": 49,
+      "RTKM.MCX": 2
+    },
+    "profit": 70
+  },
+  {
+    "shares": {
+      "STSBP.MCX": 7,
+      "LSNGP.MCX": 26,
+      "BANE.MCX": 43,
+      "MSRS.MCX": 14,
+      "SIBN.MCX": 10
+    },
+    "profit": 85
+  },
+  {
+    "shares": {
+      "TATNP.MCX": 18,
+      "ROSN.MCX": 15,
+      "KAZTP.MCX": 42,
+      "LSNGP.MCX": 21,
+      "LKOH.MCX": 3,
+      "MDMG.MCX": 1
+    },
+    "profit": 197
+  },
+  {
+    "shares": {
+      "SNGS.MCX": 30,
+      "IRAO.MCX": 23,
+      "ROSN.MCX": 35,
+      "MDMG.MCX": 9,
+      "SIBN.MCX": 3
+    },
+    "profit": 3
+  },
+  {
+    "shares": {
+      "KRSBP.MCX": 45,
+      "MRKC.MCX": 16,
+      "RTKM.MCX": 5,
+      "LKOH.MCX": 18,
+      "TATNP.MCX": 3,
+      "ROSN.MCX": 13
+    },
+    "profit": 86
+  },
+  {
+    "shares": {
+      "KRSBP.MCX": 20,
+      "IRAO.MCX": 9,
+      "MRKC.MCX": 24,
+      "RTKM.MCX": 33,
+      "SIBN.MCX": 1,
+      "KAZTP.MCX": 2,
+      "TTLK.MCX": 6,
+      "MDMG.MCX": 5
+    },
+    "profit": 52
+  },
+  {
+    "shares": {
+      "LSNGP.MCX": 46,
+      "RTKM.MCX": 44,
+      "SNGS.MCX": 5,
+      "KAZTP.MCX": 3,
+      "ROSN.MCX": 2
+    },
+    "profit": 35
+  },
+  {
+    "shares": {
+      "KRSBP.MCX": 4,
+      "ROSN.MCX": 45,
+      "MSRS.MCX": 35,
+      "IRAO.MCX": 12,
+      "RTKM.MCX": 3,
+      "MRKC.MCX": 1
+    },
+    "profit": 13
+  },
+  {
+    "shares": {
+      "RTKM.MCX": 8,
+      "LSNGP.MCX": 18,
+      "BANE.MCX": 28,
+      "MSRS.MCX": 4,
+      "TATNP.MCX": 41,
+      "IRAO.MCX": 1
+    },
+    "profit": 27
+  },
+  {
+    "shares": {
+      "IRAO.MCX": 19,
+      "LKOH.MCX": 10,
+      "MRKC.MCX": 3,
+      "ROSN.MCX": 31,
+      "RTKM.MCX": 37
+    },
+    "profit": 1
+  },
+  {
+    "shares": {
+      "MRKC.MCX": 33,
+      "KRSBP.MCX": 8,
+      "TTLK.MCX": 44,
+      "KAZTP.MCX": 4,
+      "MSRS.MCX": 6,
+      "MDMG.MCX": 1,
+      "NVTK.MCX": 3,
+      "LSNGP.MCX": 1
+    },
+    "profit": 97
+  },
+  {
+    "shares": {
+      "LKOH.MCX": 12,
+      "TATNP.MCX": 30,
+      "LSNGP.MCX": 9,
+      "ROSN.MCX": 47,
+      "BANE.MCX": 2
+    },
+    "profit": 26
+  },
+  {
+    "shares": {
+      "MDMG.MCX": 12,
+      "TATNP.MCX": 20,
+      "KAZTP.MCX": 2,
+      "NVTK.MCX": 38,
+      "MRKC.MCX": 3,
+      "LSNGP.MCX": 16,
+      "LKOH.MCX": 3,
+      "IRAO.MCX": 3,
+      "SIBN.MCX": 3
+    },
+    "profit": 43
+  },
+  {
+    "shares": {
+      "LKOH.MCX": 3,
+      "SIBN.MCX": 26,
+      "BANE.MCX": 32,
+      "RTKM.MCX": 6,
+      "MSRS.MCX": 31,
+      "TTLK.MCX": 2
+    },
+    "profit": 38
+  },
+  {
+    "shares": {
+      "MDMG.MCX": 17,
+      "LSNGP.MCX": 38,
+      "ROSN.MCX": 35,
+      "BANE.MCX": 10
+    },
+    "profit": 42
+  },
+  {
+    "shares": {
+      "MSRS.MCX": 15,
+      "SNGS.MCX": 37,
+      "KRSBP.MCX": 35,
+      "KAZTP.MCX": 7,
+      "IRAO.MCX": 2,
+      "STSBP.MCX": 1,
+      "BANE.MCX": 1,
+      "LSNGP.MCX": 2
+    },
+    "profit": 83
+  },
+  {
+    "shares": {
+      "STSBP.MCX": 41,
+      "TATNP.MCX": 17,
+      "MRKC.MCX": 33,
+      "RTKM.MCX": 6,
+      "KRSBP.MCX": 2,
+      "KAZTP.MCX": 1
+    },
+    "profit": 285
+  },
+  {
+    "shares": {
+      "MSRS.MCX": 4,
+      "NVTK.MCX": 22,
+      "IRAO.MCX": 24,
+      "BANE.MCX": 42,
+      "SNGS.MCX": 7,
+      "TATNP.MCX": 1
+    },
+    "profit": 13
+  },
+  {
+    "shares": {
+      "IRAO.MCX": 7,
+      "LKOH.MCX": 5,
+      "MRKC.MCX": 9,
+      "TTLK.MCX": 17,
+      "SIBN.MCX": 34,
+      "TATNP.MCX": 19,
+      "NVTK.MCX": 5,
+      "RTKM.MCX": 1,
+      "LSNGP.MCX": 3
+    },
+    "profit": 67
+  },
+  {
+    "shares": {
+      "STSBP.MCX": 32,
+      "KRSBP.MCX": 46,
+      "NVTK.MCX": 5,
+      "MSRS.MCX": 12,
+      "LSNGP.MCX": 2,
+      "LKOH.MCX": 3
+    },
+    "profit": 283
+  },
+  {
+    "shares": {
+      "SIBN.MCX": 6,
+      "LSNGP.MCX": 46,
+      "KAZTP.MCX": 5,
+      "IRAO.MCX": 26,
+      "BANE.MCX": 2,
+      "TTLK.MCX": 14,
+      "TATNP.MCX": 1
+    },
+    "profit": 74
+  },
+  {
+    "shares": {
+      "MSRS.MCX": 30,
+      "MRKC.MCX": 44,
+      "IRAO.MCX": 21,
+      "KRSBP.MCX": 2,
+      "LSNGP.MCX": 3
+    },
+    "profit": 18
+  },
+  {
+    "shares": {
+      "MSRS.MCX": 36,
+      "TTLK.MCX": 35,
+      "BANE.MCX": 6,
+      "RTKM.MCX": 23
+    },
+    "profit": 40
+  },
+  {
+    "shares": {
+      "LKOH.MCX": 46,
+      "TATNP.MCX": 45,
+      "TTLK.MCX": 2,
+      "KRSBP.MCX": 2,
+      "SIBN.MCX": 3,
+      "KAZTP.MCX": 2
+    },
+    "profit": 43
+  },
+  {
+    "shares": {
+      "TATNP.MCX": 10,
+      "KRSBP.MCX": 38,
+      "STSBP.MCX": 33,
+      "KAZTP.MCX": 10,
+      "MRKC.MCX": 3,
+      "SIBN.MCX": 2,
+      "TTLK.MCX": 4
+    },
+    "profit": 324
+  },
+  {
+    "shares": {
+      "KAZTP.MCX": 22,
+      "MSRS.MCX": 18,
+      "IRAO.MCX": 43,
+      "KRSBP.MCX": 7,
+      "LKOH.MCX": 8,
+      "SIBN.MCX": 2
+    },
+    "profit": 103
+  },
+  {
+    "shares": {
+      "SIBN.MCX": 14,
+      "RTKM.MCX": 25,
+      "LKOH.MCX": 22,
+      "MDMG.MCX": 2,
+      "STSBP.MCX": 13,
+      "ROSN.MCX": 20,
+      "MRKC.MCX": 4
+    },
+    "profit": 107
+  },
+  {
+    "shares": {
+      "IRAO.MCX": 17,
+      "KAZTP.MCX": 41,
+      "NVTK.MCX": 26,
+      "LSNGP.MCX": 10,
+      "TATNP.MCX": 1,
+      "SIBN.MCX": 2,
+      "LKOH.MCX": 1,
+      "SNGS.MCX": 1,
+      "MRKC.MCX": 1
+    },
+    "profit": 185
+  },
+  {
+    "shares": {
+      "SNGS.MCX": 46,
+      "ROSN.MCX": 7,
+      "RTKM.MCX": 16,
+      "LSNGP.MCX": 9,
+      "NVTK.MCX": 11,
+      "STSBP.MCX": 1,
+      "KRSBP.MCX": 2,
+      "SIBN.MCX": 3,
+      "IRAO.MCX": 5
+    },
+    "profit": 7
+  },
+  {
+    "shares": {
+      "MDMG.MCX": 36,
+      "MSRS.MCX": 45,
+      "ROSN.MCX": 15,
+      "SNGS.MCX": 3,
+      "KAZTP.MCX": 1
+    },
+    "profit": 20
+  },
+  {
+    "shares": {
+      "LSNGP.MCX": 6,
+      "STSBP.MCX": 4,
+      "LKOH.MCX": 1,
+      "MRKC.MCX": 2,
+      "SIBN.MCX": 36,
+      "KRSBP.MCX": 39,
+      "BANE.MCX": 2,
+      "MDMG.MCX": 3,
+      "NVTK.MCX": 2,
+      "TATNP.MCX": 2,
+      "SNGS.MCX": 3
+    },
+    "profit": 132
+  },
+  {
+    "shares": {
+      "TTLK.MCX": 7,
+      "LSNGP.MCX": 41,
+      "TATNP.MCX": 36,
+      "MSRS.MCX": 7,
+      "SIBN.MCX": 5,
+      "RTKM.MCX": 4
+    },
+    "profit": 49
+  },
+  {
+    "shares": {
+      "MSRS.MCX": 12,
+      "TATNP.MCX": 25,
+      "TTLK.MCX": 28,
+      "NVTK.MCX": 19,
+      "LKOH.MCX": 5,
+      "MDMG.MCX": 7,
+      "RTKM.MCX": 2,
+      "MRKC.MCX": 1,
+      "SIBN.MCX": 1
+    },
+    "profit": 50
+  },
+  {
+    "shares": {
+      "ROSN.MCX": 45,
+      "LSNGP.MCX": 5,
+      "TTLK.MCX": 9,
+      "BANE.MCX": 2,
+      "KAZTP.MCX": 28,
+      "NVTK.MCX": 6,
+      "MRKC.MCX": 5
+    },
+    "profit": 143
+  }
+]
